@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yeespec.microscope.master"
+    android:versionCode="1"
+    android:versionName="1.0" > <!-- 2016.07.22 添加android:sharedUserId="android.uid.system"获取系统权限 , 设置为系统应用 ! 但据说会导致无法读写SD卡 , 与平台系统app的签名不同导致无法安装成功 -->
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="22" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SET_TIME_ZONE" />
+
+    <uses-permissio android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    　　
+    
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.usb.host" />
+
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
+    <!-- 20170328 -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" /> <!-- 此句不加，在onDestroy()函数中用mBluetoothAdapter.disable();会报错 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_USER_DICTIONARY" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+    <uses-permission android:name="android.permission.REBOOT" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <!-- 2016.06.14 添加DEVICE_POWER 电源管理权限 -->
+    <uses-permission android:name="android.permission.DEVICE_POWER" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- 2016.07.13 添加权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.BATTERY_CHANGED" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <!-- 为了使用OpenGL ES 2.0 API ,需要添加如下声明 : -->
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.bluetooth"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.screen.portrait"
+        android:required="false" />
+
+    <!--
+    在application标签里面添加了一句android:hardwareAccelerated="false" （禁用硬件加速）;
+    禁用硬件加速防止出现service DeadObjectException 异常
+    -->
+    <application
+        android:name="com.yeespec.microscope.master.application.BaseApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_microscope_cells_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:persistent="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- app 多渠道打包 : 定义mate-data标签 value值与发布的渠道名对应 -->
+        <meta-data
+            android:name="CHANNEL"
+            android:value="internal" />
+
+        <!-- 广播接收器 -->
+        <receiver
+            android:name="com.yeespec.microscope.master.receiver.AdminReceiver"
+            android:description="@string/description"
+            android:label="@string/labelValue"
+            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+            <meta-data
+                android:name="android.app.device_admin"
+                android:resource="@xml/lock_screen" />
+
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 测试activity -->
+
+        <service
+            android:name="com.yeespec.libuvccamera.uvccamera.service.UVCService"
+            android:exported="true"
+            android:process=":yeespec_uvcservice" >
+
+            <!-- android:process=":yeespec_uvcservice" -->
+            <intent-filter android:priority="1000" >
+                <action android:name="com.yeespec.libuvccamera.uvccamera.service.IUVCService" />
+                <action android:name="com.yeespec.libuvccamera.uvccamera.service.IUVCSlaveService" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.yeespec.microscope.master.service.GuardService"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":guard" >
+
+            <!-- - android:process=":guard" -->
+           >
+        </service>
+        <!-- <service -->
+        <!-- android:name="io.vov.vitamio.VitamioService" -->
+        <!-- android:exported="false"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="io.vov.vitamio.IVitamioService"/> -->
+        <!-- </intent-filter> -->
+        <!-- </service> -->
+        <service
+            android:name="com.yeespec.microscope.master.service.MyIntentService"
+            android:exported="false" >
+        </service>
+        <service
+            android:name="com.yeespec.microscope.master.service.MasterIntentService"
+            android:exported="false" >
+        </service>
+
+        <activity
+            android:name="com.yeespec.microscope.master.activity.PhotoAlbumActivity"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.yeespec.microscope.master.activity.SettingActivity"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="com.yeespec.action.STATUS_CHANGED" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.yeespec.microscope.master.activity.OnePiexlActivity"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="landscape"
+            android:theme="@style/OnePixelActivity" >
+        </activity>
+        <activity
+            android:name="com.yeespec.microscope.master.activity.TestActivity"
+            android:exported="true"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" >
+        </activity>
+        <!-- 主activity -->
+        <activity
+            android:name="com.yeespec.microscope.master.activity.SplashActivity"
+            android:exported="true"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleInstance"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <!--
+                  <intent-filter android:priority="1000">
+                              <action android:name="android.hardware.usb.action.USB_DEVICE_DETACHED"/>
+                          </intent-filter>
+            -->
+
+
+            <!-- 监听USB插入启动 -->
+            <intent-filter android:priority="1000" >
+                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+                android:resource="@xml/device_filter" />
+            <!-- 监听开机自启 -->
+            <!--
+             <intent-filter>
+                 <action android:name="android.intent.action.BOOT_COMPLETED"/>
+             </intent-filter>
+            -->
+
+        </activity>
+        <activity
+            android:name="com.yeespec.microscope.master.activity.YeeSpecActivity"
+            android:exported="true"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.yeespec.microscope.master.activity.MasterActivity"
+            android:exported="true"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" >
+
+            <!--
+             <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+             <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+            -->
+
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+
+
+            <!--
+             <intent-filter>
+                 <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"/>
+             </intent-filter>
+             <intent-filter>
+                 <action android:name="android.hardware.usb.action.USB_DEVICE_DETACHED"/>
+             </intent-filter>
+
+             <meta-data
+                 android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+                 android:resource="@xml/device_filter"/>
+            -->
+        </activity>
+        <activity
+            android:name="com.yeespec.microscope.master.activity.ImageActivity"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" />
+        <!--
+            <activity
+            android:name="com.nmbb.oplayer.ui.vitamio.InitActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden"/>
+        -->
+        <activity
+            android:name="com.yeespec.microscope.master.activity.PlayVideoActvitity"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.yeespec.microscope.master.activity.AboutActivity"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.yeespec.microscope.master.activity.DeviceListActivity"
+            android:hardwareAccelerated="false"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+
+            <!--
+             <intent-filter>
+                 <action android:name="android.intent.action.MAIN"/>
+                 <category android:name="android.intent.category.DEFAULT"/>
+                 <category android:name="android.intent.category.LAUNCHER"/>
+             </intent-filter>
+             <intent-filter>
+                 <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"/>
+             </intent-filter>
+
+             <meta-data
+                 android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+                 android:resource="@xml/device_filter"/>
+            -->
+
+        </activity>
+        <activity
+            android:name="com.yeespec.microscope.master.activity.UsbSerialActivity"
+            android:hardwareAccelerated="false"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" >
+
+            <!--
+              <intent-filter>
+                  <action android:name="android.intent.action.MAIN"/>
+                  <category android:name="android.intent.category.LAUNCHER"/>
+              </intent-filter>
+            -->
+            <!--
+              <intent-filter>
+                  <action android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED"/>
+                  <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"/>
+              </intent-filter>
+            -->
+
+
+            <!--
+                <meta-data
+                android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED"
+                android:resource="@xml/accessory_filter"/>
+            -->
+
+
+            <!--
+                 <meta-data
+                 android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+                 android:resource="@xml/device_filter"/>
+            -->
+        </activity>
+        <activity
+            android:name="com.yeespec.microscope.master.activity.PowerTestActivity"
+            android:hardwareAccelerated="false" >
+        </activity>
+        <activity
+            android:name="com.yeespec.microscope.master.activity.RockerViewActivity"
+            android:hardwareAccelerated="false" >
+        </activity>
+        <activity
+            android:name="com.yeespec.libuvccamera.bluetooth.BluetoothActivity"
+            android:hardwareAccelerated="false" >
+        </activity>
+        <activity
+            android:name="com.yeespec.libuvccamera.bluetooth.DeviceActivity"
+            android:hardwareAccelerated="false" >
+        </activity>
+        <activity
+            android:name="com.yeespec.libuvccamera.bluetooth.ChatActivity"
+            android:hardwareAccelerated="false" >
+        </activity>
+
+        <receiver android:name="com.yeespec.microscope.master.receiver.BootBroadcastReceiver" >
+            <intent-filter android:priority="1000" >
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+
+        <!--
+     ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        // LiveQuery 需要依赖实时通信模块，所以需要在 AndroidManifest.xml 文件里面配置如下内容：
+        <!-- 实时通信模块、推送、LiveQuery（均需要加入以下声明） START -->
+        <!-- 实时通信模块、推送都要使用 PushService -->
+        <service android:name="com.avos.avoscloud.PushService" />
+
+        <receiver android:name="com.avos.avoscloud.AVBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 实时通信模块、推送 END -->
+        <service
+            android:name="com.yeespec.microscope.utils.wifidirect.FileTransferService"
+            android:enabled="true" />
+        <service
+            android:name="com.yeespec.microscope.utils.wifidirect.DataTransferService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <receiver android:name="com.yeespec.microscope.master.receiver.BluetoothConnectActivityReceiver" >
+            <intent-filter>
+                <action android:name="android.bluetooth.device.action.PAIRING_REQUEST" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="io.vov.vitamio.activity.InitActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name="com.avos.avoscloud.search.SearchActivity" >
+        </activity>
+
+        <service
+            android:name="com.squareup.leakcanary.internal.HeapAnalyzerService"
+            android:enabled="false"
+            android:process=":leakcanary" />
+        <service
+            android:name="com.squareup.leakcanary.DisplayLeakService"
+            android:enabled="false" />
+
+        <activity
+            android:name="com.squareup.leakcanary.internal.DisplayLeakActivity"
+            android:enabled="false"
+            android:icon="@drawable/leak_canary_icon"
+            android:label="@string/leak_canary_display_activity_label"
+            android:taskAffinity="com.squareup.leakcanary"
+            android:theme="@style/leak_canary_LeakCanary.Base" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.squareup.leakcanary.internal.RequestStoragePermissionActivity"
+            android:enabled="false"
+            android:icon="@drawable/leak_canary_icon"
+            android:label="@string/leak_canary_storage_permission_activity_label"
+            android:taskAffinity="com.squareup.leakcanary"
+            android:theme="@style/leak_canary_Theme.Transparent" />
+    </application>
+
+</manifest>

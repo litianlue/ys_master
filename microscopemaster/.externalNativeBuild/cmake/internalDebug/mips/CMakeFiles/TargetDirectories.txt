@@ -1,0 +1,3 @@
+D:/project/yeespec/20181231/MicroscopeMaster/microscopemaster/.externalNativeBuild/cmake/internalDebug/mips/CMakeFiles/native-lib.dir
+D:/project/yeespec/20181231/MicroscopeMaster/microscopemaster/.externalNativeBuild/cmake/internalDebug/mips/CMakeFiles/edit_cache.dir
+D:/project/yeespec/20181231/MicroscopeMaster/microscopemaster/.externalNativeBuild/cmake/internalDebug/mips/CMakeFiles/rebuild_cache.dir

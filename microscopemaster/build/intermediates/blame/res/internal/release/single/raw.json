@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\release\\raw\\libvinit.so",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\raw\\libvinit.so"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\release\\raw\\pub.key",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\raw\\pub.key"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\release\\raw\\camera_click.ogg",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\raw\\camera_click.ogg"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\release\\raw\\libarm.so",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\raw\\libarm.so"
+    }
+]

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="@drawable/toast_background"
+              android:layout_width="400dp"
+              android:layout_height="wrap_content">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="#000"
+            android:textSize="30sp"
+            android:text="载玻片/步:"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/carrier_move_distance"
+            android:layout_weight="1"
+            android:textSize="30sp"
+            android:text="0"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="#000"
+            android:textSize="30sp"
+            android:text="培养皿/步:"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/petridish_move_distance"
+            android:layout_weight="1"
+            android:textSize="30sp"
+            android:text="0"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="#000"
+            android:textSize="30sp"
+            android:text="培养板/步:"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/plate_move_distance"
+            android:layout_weight="1"
+            android:textSize="30sp"
+            android:text="0"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="#000"
+            android:textSize="30sp"
+            android:text="全程位移/步:"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/all_move_distance"
+            android:layout_weight="1"
+            android:textSize="30sp"
+            android:text="0"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="#000"
+            android:textSize="30sp"
+            android:text="偏移速度:"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/one_move_speed"
+            android:layout_weight="1"
+            android:textSize="30sp"
+            android:text="2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/autofocus_set_cancel"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:textSize="30sp"
+            android:text="取消"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/autofocus_set_determine"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_marginRight="20dp"
+            android:textColor="#000"
+            android:textSize="30sp"
+            android:text="确定"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+</LinearLayout>

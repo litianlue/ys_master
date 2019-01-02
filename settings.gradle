@@ -1,0 +1,2 @@
+include ':microscopemaster', ':vitamio'
+include ':openCVLibrary310'

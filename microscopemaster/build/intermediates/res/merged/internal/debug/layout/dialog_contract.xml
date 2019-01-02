@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/toast_background">
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:text="请选择对照组"/>
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:text="是否启用对照组"
+            android:layout_width="wrap_content"
+            android:textColor="#000"
+            android:textSize="30sp"
+            android:layout_height="wrap_content"/>
+        <CheckBox
+            android:id="@+id/check_contract"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <ListView
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="5sp"
+        android:id="@+id/listview_contract"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+    </ListView>
+
+
+</LinearLayout>

@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">YEESPEC</string>
+
+    <string name="setting_turn_off">关机</string>
+    <string name="setting_light_color">灯光着色设置</string>
+    <string name="setting_camera_select">连接相机</string>
+    <string name="setting_wifi_select">连接WIFI</string>
+    <string name="setting_sate_select">对照设置</string>
+    <string name="setting_autofocus">对焦设置</string>
+    <string name="setting_blue">蓝牙设置</string>
+    <string name="setting_developer">开发员设置</string>
+    <string name="setting_time">时间设置</string>
+    <string name="setting_software_update">软件更新</string>
+    <string name="setting_about_us">关于我们</string>
+
+    <string name="system_alter">System tips</string>
+    <string name="wifi_connect_tip">The network is not connected, open set up WiFi？</string>
+    <string name="return_tip">return</string>
+    <string name="setting">setting</string>
+
+    <!-- 主机扫描 -->
+    <string name="found_lan_hosts">Found %d host in LAN</string>
+    <string name="host_list">Host list</string>
+    <string name="title_activity_image">ImageActivity</string>
+
+    <string name="vitamio_theme_app_name">VPlayer codec</string>
+    <string name="VideoView_error_title">Cannot play video</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to
+		this device.</string>
+    <string name="VideoView_error_text_unknown">对不起,这个视频不能播放。</string>
+    <string name="VideoView_error_button">OK</string>
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+
+    <string name="init_decoders">正在进行第一次解压解码包...</string>
+    <string name="loadinfo">载入中，请稍后...</string>
+    <string name="file_oper">文件操作</string>
+    <string name="file_rename">重命名</string>
+    <string name="file_rename_failed">重命名失败</string>
+    <string name="file_rename_exists">文件已存在</string>
+    <string name="file_delete">删除</string>
+    <string name="file_delete_confirm">确定删除 (%s) ？</string>
+    <string name="video_layout_loading">正在缓冲...</string>
+
+    <string name="really_shutdown">是否关机?</string>
+    <string name="yes">关机</string>
+    <string name="no">取消</string>
+    <string name="ok">OK</string>
+    <string name="not_rooted">您的手机未进行ROOT操作，因此不能使用关机服务</string>
+    <string name="what">如何进行ROOT?</string>
+    <string name="rooting_url">http://en.wikipedia.org/wiki/Rooting_(Android_OS)</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="really_delete">是否在导出后删除机身内存的图片?</string>
+    <string name="delete">是</string>
+    <string name="no_delete">否</string>
+    <string name="ticker_notify">智能显微镜</string>
+    <string name="title_notify">智能显微镜</string>
+    <string name="text_notify">正在工作中...</string>
+    <string name="text1_notify">正在努力工作中...</string>
+    <string name="description">force lock screen</string>
+    <string name="labelValue">device_admin</string>
+
+    <string name="select">Select USB Web Camera</string>
+    <string name="camera">Camera</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_device">No USB camera found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- =============================================== -->
+
+    <string name="app_title">USB Serial Example</string>
+    <string name="refreshing">Refreshing...</string>
+    <string name="textBtnRTS">RTS - Request To Send</string>
+    <string name="textBtnDTR">DTR - Data Terminal Ready</string>
+
+    <string name="info_notification">应用后台运行中…</string>
+    <string name="info_net">网络设置</string>
+    <string name="info_saving">数据保存中，请稍后…</string>
+    <string name="info_null">内容为空，不需处理…</string>
+    <string name="info_sendNull">发送数据为空…</string>
+    <string name="info_noFT23X">未发现串口设备…</string>
+    <string name="info_receive">【 接收显示区 】</string>
+    <string name="info_send">【 发送显示区 】</string>
+    <string name="info_receiveCount">接收:</string>
+    <string name="info_sendCount">发送:</string>
+    <string name="info_hexShow">Hex显示</string>
+    <string name="info_hexSend">Hex发送</string>
+    <string name="info_clearRec">清空接收</string>
+    <string name="info_clearSend">清空发送</string>
+    <string name="info_receiveHint">接收的数据显示区域</string>
+    <string name="info_sendHint">发送的数据显示区域</string>
+    <string name="info_sendHandle">手动发送</string>
+    <string name="info_saved">数据保存到 </string>
+    <string name="info_memory">发送存储记录</string>
+    <string name="info_action"> 功 能 操 作 </string>
+    <string name="info_setting"> 参 数 设 置 </string>
+    <string name="info_cammand"> 控 制 命 令 </string>
+    <string name="info_partner"> 支 持 外 设 </string>
+    <string name="info_protect"> 版权及免责声明 </string>
+    <string name="info_recSave">保存当前接收显示区内的数据</string>
+    <string name="info_recSaveQuikKey">快捷键 | 【长按】接收显示区</string>
+    <string name="info_sendHide">隐藏/显示发送区域</string>
+    <string name="info_sendHideQuikKey">快捷键 | 【双击】接收显示区</string>
+    <string name="info_screenFreedom">允许屏幕翻转</string>
+    <string name="info_getSend">提取发送</string>
+    <string name="info_noRecord">无历史数据</string>
+    <string name="info_noMemo">无提示信息</string>
+    <string name="info_ft23xOk">初始化串口设备【完成】</string>
+    <string name="info_setDone">【 设置完成 】</string>
+    <string name="info_ft23xNo">【未发现】有效串口设备</string>
+    <string name="info_interval">自动发送间隔（ms）</string>
+    <string name="err_noNet">是否设置连接网络？</string>
+    <string name="err_hexFormat">输入不符合Hex格式要求</string>
+    <string name="err_numberFormat">输入数据不符合约定值</string>
+    <string name="isExit"> 再按退出【串口助手】 </string>
+    <string name="isSave"> 保存接收区显示的数据？</string>
+    <string name="isCancel"> <B>取 消</B> </string>
+    <string name="isOk"> <B>确 定</B> </string>
+    <string name="memo">备注</string>
+    <string name="save">保存更改</string>
+    <string name="clear">清除记录</string>
+    <string name="data">数据</string>
+    <string name="Null"/>
+    <string name="zero">0</string>
+    <string name="baudRate">波特率</string>
+    <string name="stopBits">停止位</string>
+    <string name="dataBits">数据位</string>
+    <string name="parity">校验位</string>
+    <string name="flowControl">流控制</string>
+    <string name="txt_partner">"【支持信息】
+        支持版本：Android 4.1 及以上
+        支持手机：具有OTG功能手机
+        支持厂家：广东亿谱光电科技有限公司（YeeSpec）
+    </string>
+    <string name="txt_contact">"【联系方式】
+        移动电话：18825159471
+        电子邮箱：wgb@yeespec.com"
+    </string>
+    <string name="txt_protect">"
+        一、本APP内容（包括原创及转载自互联网图片等资料）版权归作者所有，仅供大家学习与参考，勿使用于商业用途。如需作商业用途，请与原作者联系。未经作者同意，用作商业用途或匿名转载，作者有权利追究侵权者法律责任；
+        二、著作权人发现本APP有侵害其合法权益的内容或作品，请及时联系我们，会第一时间给予处理；
+        三、本APP文字及图片允许您复制、转载和传播，转载时请您务必注明来源；
+        四、本APP非商业用途，您在使用或传播中出现任何问题、损失，本APP将不承担任何责任；
+        五、本声明未涉及的问题参见国家有关法律法规。"
+    </string>
+
+
+</resources>

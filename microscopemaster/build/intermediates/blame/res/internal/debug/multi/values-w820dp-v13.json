@@ -1,0 +1,506 @@
+[
+    {
+        "outputFile": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\incremental\\mergeInternalDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 45,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 45,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 46,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 46,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 41,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 41,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 57,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 57,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 51,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 51,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 57,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 57,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 43,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 43,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 56,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 56,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 51,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 51,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 48,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 48,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 47,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 47,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 46,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 46,
+                        "endOffset": 148
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\incremental\\mergeInternalDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 45,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 45,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 46,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 46,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 41,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 41,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 57,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 57,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 51,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 51,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 57,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 57,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 43,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 43,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 56,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 56,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 51,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 51,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 48,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 48,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 47,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 47,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 46,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 46,
+                        "endOffset": 148
+                    }
+                }
+            }
+        ]
+    }
+]

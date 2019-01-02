@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\release\\mipmap-hdpi\\ic_microscope_launcher.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-hdpi\\ic_microscope_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\release\\mipmap-hdpi\\view_small.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-hdpi\\view_small.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\release\\mipmap-hdpi\\view_big.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-hdpi\\view_big.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\release\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\release\\mipmap-hdpi\\ic_cells_launcher.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-hdpi\\ic_cells_launcher.png"
+    }
+]

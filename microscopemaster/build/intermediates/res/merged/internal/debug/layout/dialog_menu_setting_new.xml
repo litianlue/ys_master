@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10.0dip">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_DeviceStatus"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5.0dip"
+            android:gravity="center"
+            android:text="title"/>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0dip"
+            android:layout_margin="10.0dip"
+            android:background="@drawable/view_divider"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="串口号"/>
+
+            <!--<EditText
+                android:id="@+id/edit_baudRate"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"/>-->
+
+            <Spinner
+                android:id="@+id/spinner_devices"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/baudRate"/>
+
+            <!--<EditText
+                android:id="@+id/edit_baudRate"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"/>-->
+
+            <Spinner
+                android:id="@+id/spinner_baudRate"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:entries="@array/baud_rate"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5.0dip"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dataBits"/>
+
+            <Spinner
+                android:id="@+id/spinner_dataBits"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:entries="@array/dataBits"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5.0dip"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/stopBits"/>
+
+            <Spinner
+                android:id="@+id/spinner_stopBits"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:entries="@array/stopBits"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5.0dip"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/parity"/>
+
+            <Spinner
+                android:id="@+id/spinner_parity"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:entries="@array/parity"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5.0dip"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/flowControl"/>
+
+            <Spinner
+                android:id="@+id/spinner_flowControl"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:entries="@array/flowControl"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0dip"
+            android:layout_margin="10.0dip"
+            android:background="@drawable/view_divider"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10.0dip"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/info_interval"/>
+
+            <EditText
+                android:id="@+id/edit_sendAutoInterval"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

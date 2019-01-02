@@ -1,0 +1,11 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@mipmap/focusing6" android:duration="70" />
+    <item android:drawable="@mipmap/focusing5" android:duration="70" />
+    <item android:drawable="@mipmap/focusing4" android:duration="70" />
+    <item android:drawable="@mipmap/focusing3" android:duration="70" />
+    <item android:drawable="@mipmap/focusing2" android:duration="70" />
+    <item android:drawable="@mipmap/focusing1" android:duration="1000" />
+    <item android:drawable="@mipmap/explode5" android:duration="70" />
+
+</animation-list>

@@ -1,0 +1,7 @@
+#Wed Jan 02 16:06:18 CST 2019
+base.0=D\:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\transforms\\dex\\internal\\release\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\transforms\\dex\\internal\\release\\folders\\1000\\1f\\main\\classes.dex
+base.1=D\:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\transforms\\dex\\internal\\release\\folders\\1000\\1f\\main
+file.0=D\:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\transforms\\dex\\internal\\release\\folders\\1000\\1f\\main\\classes2.dex

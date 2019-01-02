@@ -1,0 +1,354 @@
+apply plugin: 'com.android.application'
+//apply plugin: 'bugly'   //添加腾讯的Bugly插件
+//apply plugin: 'com.android.library'
+repositories {
+    maven {
+        url 'https://oss.sonatype.org/content/repositories/snapshots'
+    }
+    maven { url "https://jitpack.io" }
+}
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '23.0.2'
+
+    //apk打包签名配置 :
+    //签名
+    signingConfigs {
+        debug {
+
+        }
+        release {// 自己的签名文件
+            storeFile file("doc/yeespec.jks")
+            storePassword "123456"
+            keyAlias "yeespeckey"
+            keyPassword "123456"
+        }
+    }
+
+
+
+    defaultConfig {
+        //解决导入第三方jar包导致调用方法超过65536
+        multiDexEnabled true
+
+        applicationId "com.yeespec.microscope.master"
+        minSdkVersion 19
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        externalNativeBuild {
+            cmake {
+
+                cppFlags "-frtti -fexceptions"
+//                cppFlags "-std=c++11 -frtti -fexceptions"
+                abiFilters 'x86', 'x86_64', 'armeabi', 'armeabi-v7a', 'arm64-v8a', 'mips', 'mips64'
+//                abiFilters 'armeabi-v7a'
+
+            }
+        }
+
+
+        resValue("string", "build_time", buildTime())
+        resValue("string", "build_host", hostName())
+//        resValue( "string" , "build_revision" , revision())
+
+        //添加PlaceHolder设置默认打包发布渠道 :
+        manifestPlaceholders = [CHANNEL_VALUE: "internal"]
+
+    }
+
+    //重命名apk名称,自定义导出的APK名称 :
+    applicationVariants.all {
+        variant ->
+            variant.outputs.each {
+                output ->
+                    output.outputFile = new File(
+                            output.outputFile.parent,
+                            "YeeSpec-${variant.buildType.name}.apk".toString()
+                    )
+/*
+                output ->
+                    output.outputFile = new File(
+                            output.outputFile.parent,
+                            "YeeSpec${buildTime()}-${variant.buildType.name}.apk".toString()
+                    )
+*/
+                    //並且将apk按debug,release,preview分类 :
+                    /* output -> output.outputFile = new File(
+                                                         output.outputFile.parent + "/${variant.buildType.name}",
+                                                         "YeeSpec${buildTime()}-${variant.buildType.name}-${variant.versionName}-${variant.productFlavors[0].name}.apk".toLowerCase()
+                                                         )*/
+            }
+    }
+
+    //添加多渠道打包配置 :
+    productFlavors {
+        internal {}
+
+        /*
+        wandoujia{
+            manifestPlaceholders = [CHANNEL_VALUE: "internal"]
+            signingConfig signingConfigs.release
+        }
+        yanbober{}
+        xiaomi{}
+        baidu{}
+        InHouse{}
+        pcguanwang{}
+        h5guanwang{}
+        hiapk{}
+        m91{}
+        appchina{}
+        qq{}
+        jifeng{}
+        anzhi{}
+        mumayi{}
+        m360{}
+        youyi{}
+        sougou{}
+        leshangdian{}
+        huawei{}
+        uc{}
+        oppo{}
+        flyme{}
+        jinli{}
+        letv{}
+        */
+    }
+
+    productFlavors.all {
+        flavor -> flavor.manifestPlaceholders = [CHANNEL_VALUE: name]
+    }
+
+    buildTypes {
+        debug {
+            manifestPlaceholders = [app_label: "@string/app_name_debug"]
+            //显示Log
+            buildConfigField "boolean", "LOG_DEBUG", "true"
+            //增加APP ID的后缀 : 会在安卓包后添加.debug,造成对象的安装包调用路径错误
+//            applicationIdSuffix ".debug"
+            //保留debug信息 :
+            debuggable true
+            //混淆
+            minifyEnabled false
+            //Zipalign优化
+            zipAlignEnabled true
+            //移除无用的resource文件 (debug模式下编译报错 ,注释掉)
+//            shrinkResources true
+            //加载默认混淆配置文件
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            //签名
+//            signingConfig signingConfigs.debug
+        }
+        release {
+            manifestPlaceholders = [app_label: "@string/app_name"]
+            buildConfigField "boolean", "LOG_DEBUG", "false"
+            //增加APP ID的后缀 :
+//            applicationIdSuffix ".release"
+            minifyEnabled false
+            zipAlignEnabled true
+           // shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//            signingConfig signingConfigs.release
+            //签名
+            signingConfig signingConfigs.release
+
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    def outputFile = output.outputFile
+                    if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                        // 输出apk名称为app_v1.0_2015-xx-xx_xxxx.apk
+                        //def fileName = "app_v${defaultConfig.versionName}_${releaseTime()}.apk"
+                        def fileName = "app_v${defaultConfig.versionName}_${variant.productFlavors[0].name}.apk"
+                        output.outputFile = new File(outputFile.parent, fileName)
+                    }
+                }
+            }
+
+        }
+        preview {
+            manifestPlaceholders = [app_label: "@string/app_name_preview"]
+            buildConfigField "boolean", "LOG_DEBUG", "true"
+            //增加APP ID的后缀 :
+//            applicationIdSuffix ".preview"
+            //保留debug信息 :
+            debuggable true
+            minifyEnabled true
+            zipAlignEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//            signingConfig signingConfigs.preview
+        }
+    }
+
+
+    externalNativeBuild {
+        cmake {
+            path "CMakeLists.txt"
+        }
+    }
+
+    sourceSets.main {
+
+//        jniLibs.srcDir 'src/main/libs'
+//        jniLibs.srcDirs = ['libs','src/main/libs']
+        jniLibs.srcDirs = ['src/main/libs', 'src/main/jniLibs']
+//        jniLibs.srcDirs = ['src/main/libs']
+        jni.srcDirs = []
+
+
+
+    }
+
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+    /*dexOptions {
+        incremental true
+        jumboMode true
+    }*/
+    sourceSets { main { assets.srcDirs = ['src/main/assets'] } }
+
+
+}
+
+def buildTime() {
+//    return new Date().format("yyyy-MM-dd HH:mm:ss")
+//    return new Date().format("yyyyMMddHHmmss")
+//    return new Date().format("yyyyMMddHH")
+    return new Date().format("yyyyMMdd")
+}
+
+def hostName() {
+    return System.getProperty("user.name") + "@" + InetAddress.localHost.hostName
+}
+
+/*
+def revision(){
+    def code = new ByteArrayOutputStream()
+    exec {
+        commandLine 'git','rev-parse','--short','HEAD'
+        standardOutput = code
+    }
+    return code.toString()
+}
+*/
+
+
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    //解决导入第三方jar包导致调用方法超过65536
+    compile 'com.android.support:multidex:'
+
+    compile fileTree(includes: ['*.jar', '*.so'], dir: 'libs')
+    compile fileTree(include: '*.jar', dir: 'libs')
+    compile fileTree(include: '*.so', dir: 'libs')
+    compile fileTree(include: '*/so', dir: 'libs')
+    compile fileTree(include: '*/so', dir: 'libs/armeabi-v7a')
+    compile fileTree(include: '*/so', dir: 'libs/x86')
+    compile 'com.github.orhanobut:hawk:1.21'
+
+    //添加腾讯的bugly插件 ;
+
+    //其中latest.release为当前最新的
+
+    //    compile files('src/main/libs/io.vov.vitamio.jar')
+    compile fileTree(include: 'native-libs.jar', dir: 'build/native-libs')
+    //    compile files('src/main/libs/libvinit.jar')
+    compile project(':openCVLibrary310')
+   // testCompile 'junit:junit:4.12'
+    compile 'org.java-websocket:Java-WebSocket:1.3.0'
+    compile 'com.tencent.bugly:crashreport:latest.release'
+    compile 'io.netty:netty-all:4.0.34.Final'
+    compile 'log4j:log4j:1.2.17'
+    compile 'org.slf4j:slf4j-api:1.7.14'
+    compile 'com.alibaba:fastjson:1.2.4'
+    compile 'com.mcxiaoke.volley:library:1.0.19'
+    compile 'com.android.support:appcompat-v7:22.2.1'
+    compile 'com.android.support:support-v4:22.2.1'
+    compile 'com.android.support:cardview-v7:22.2.1'
+    compile 'com.android.support:palette-v7:22.2.1'
+    compile 'com.android.support:recyclerview-v7:22.2.1'
+    compile 'com.android.support:percent:22.2.0'
+    compile 'com.koushikdutta.ion:ion:2.+'
+    compile 'com.facebook.fresco:fresco:0.8.0'
+    testCompile 'junit:junit:4.12'
+    compile 'com.google.android.gms:play-services-appindexing:8.4.0'
+    compile project(':vitamio')
+    compile 'com.github.PhilJay:MPAndroidChart:v3.0.1'
+    // LeanCloud 基础包
+    compile ('cn.leancloud.android:avoscloud-sdk:v4.4.4')
+    // 推送与实时聊天需要的包
+    compile ('cn.leancloud.android:avoscloud-push:v4.4.4@aar'){transitive = true}
+    // LeanCloud 统计包
+    compile ('cn.leancloud.android:avoscloud-statistics:v4.4.4')
+    // LeanCloud 用户反馈包
+    compile ('cn.leancloud.android:avoscloud-feedback:v4.4.4@aar')
+
+    // avoscloud-sns：LeanCloud 第三方登录包
+    // compile ('cn.leancloud.android:avoscloud-sns:v4.4.4@aar')
+    compile ('cn.leancloud.android:qq-sdk:1.6.1-leancloud')
+    // 新浪微博 SDK
+    // compile('com.sina.weibo.sdk:core:4.1.4:openDefaultRelease@aar')
+    // LeanCloud 应用内搜索包
+    compile ('cn.leancloud.android:avoscloud-search:v4.4.4@aar')
+
+    compile 'com.android.support:multidex:1.0.1'
+
+    debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5'
+    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'
+     testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'
+}
+
+
+task nativeLibsToJar(type: Zip, description: 'create a jar archive of the native libs') {
+//    destinationDir file("$projectDir/libs")
+    destinationDir file("$buildDir/native-libs")
+    baseName "native-libs"
+    extension "jar"
+    from fileTree(dir: "libs", include: "**/*.so")
+    into "lib/"
+}
+
+tasks.withType(JavaCompile) {
+    compileTask -> compileTask.dependsOn(nativeLibsToJar, ndkBuild)
+//    compileTask -> compileTask.dependsOn nativeLibsToJar
+//    compileTask -> compileTask.dependsOn ndkBuild
+}
+
+task ndkBuild(type: Exec, description: 'Compile JNI source via NDK') {
+    println('executing ndkBuild')
+    def ndkBuildingDir = project.plugins.findPlugin('com.android.application').sdkHandler.getNdkFolder().absolutePath
+    def ndkBuildPath = ndkBuildingDir
+    if (org.apache.tools.ant.taskdefs.condition.Os.isFamily(org.apache.tools.ant.taskdefs.condition.Os.FAMILY_WINDOWS)) {
+        ndkBuildPath = ndkBuildingDir + '/ndk-build.cmd'
+    } else {
+        ndkBuildPath = ndkBuildingDir + '/ndk-build'
+    }
+    commandLine ndkBuildPath, '-j8', '-C', file('src/main').absolutePath
+}
+
+/*bugly {
+//    appId = '900017559'    //注册时分配的App ID
+//    appKey = 'vxmCOYzUElxygQxD'  //注册时分配的App Key
+//    appId = 'c48fb25c38'    //注册时分配的App ID
+//    appKey = 'e752a3bd-cfd6-4212-94ed-4942b270b411'  //注册时分配的App Key
+    appId = 'c48fb25c38'    //注册时分配的App ID
+    appKey = 'e752a3bdcfd6421294ed4942b270b411'  //注册时分配的App Key
+}*/
+
+

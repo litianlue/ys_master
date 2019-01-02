@@ -1,0 +1,834 @@
+[
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\scaleplate.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\scaleplate.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\convergence_rate.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\convergence_rate.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\autofucossetting.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\autofucossetting.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_number.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_number.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\enlarge.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\enlarge.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\zidongpaizhao.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\zidongpaizhao.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\stop.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing1.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\brightness.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\brightness.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\petridish.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\petridish.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_seekbar02.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_seekbar02.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_number.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_number.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\explode4.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\explode4.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\brightness_bg.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\brightness_bg.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_up_mid.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_up_mid.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\button_1.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\button_1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\jinzhi.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\jinzhi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_down_max.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_down_max.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\video_num_bg.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\video_num_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\explode2.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\explode2.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\xiguan.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\xiguan.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\luxiang.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\luxiang.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\export.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\export.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\timeseting.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\timeseting.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\dianchi1.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\dianchi1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\light.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\light.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing5.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing5.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\set_bluetoot.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\set_bluetoot.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_down_min.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_down_min.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\wifi_2.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\wifi_2.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_none_light_big.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_none_light_big.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\screen_scale.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\screen_scale.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_none_light_big.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_none_light_big.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing3.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing3.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\shouji.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\shouji.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_seekbar02.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_seekbar02.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\iso.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\iso.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\lock_wifi.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\lock_wifi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\scaleplate1.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\scaleplate1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\more.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\more.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_down_min.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_down_min.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_white_light.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_white_light.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\petridish.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\petridish.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\video_brightness_bg.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\video_brightness_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\ic_microscope_cells_launcher.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\ic_microscope_cells_launcher.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_up_mid.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_up_mid.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\redpoint.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\redpoint.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\carrier.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\carrier.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_pause02.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_pause02.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing3.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing3.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_black_light_big.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_black_light_big.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\bofangzhong2.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\bofangzhong2.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\timeseting.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\timeseting.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\dianchi.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\dianchi.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_green_light.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_green_light.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing6.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing6.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\update.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\update.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\light.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\light.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\video_num_front.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\video_num_front.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\button2_1.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\button2_1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\ic_microscope_cells_launcher.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\ic_microscope_cells_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\bofangzhong2.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\bofangzhong2.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\luxiang_s.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\luxiang_s.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_up_min.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_up_min.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\zhuangtai.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\zhuangtai.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\autofocus.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\autofocus.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\bofangzhong.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\bofangzhong.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\update.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\update.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\set_bluetoot.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\set_bluetoot.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mf.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mf.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\close.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\close.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focousset.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focousset.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\jingtou.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\jingtou.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\jingtou.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\jingtou.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\view_big.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\view_big.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\plate.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\plate.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\video_num_bg.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\video_num_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\video_volumn_bg.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\video_volumn_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\zhuangtai.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\zhuangtai.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\ip.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\ip.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\bg_time.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\bg_time.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focousset1.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focousset1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\about.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\about.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\video_volumn_bg.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\video_volumn_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_play01.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_play01.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\explode4.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\explode4.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\clock.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\wifi_1.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\wifi_1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\wifi.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\wifi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_play02.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_play02.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_none_light.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_none_light.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\explode5.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\explode5.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\video_brightness_bg.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\video_brightness_bg.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\lock.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\lock.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_up_max.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_up_max.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focousset.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focousset.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\sd.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\sd.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_none_light.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_none_light.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\dianchi1.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\dianchi1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\button2_1.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\button2_1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing5.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing5.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\explode5.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\explode5.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\play.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\play.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\view_big.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\view_big.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\wifi_1.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\wifi_1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\info.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\info.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\autofucossetting.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\autofucossetting.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\carrier.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\carrier.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mf.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mf.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\close.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\close.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_bg.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_return.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_return.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\zidongpaizhao.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\zidongpaizhao.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\button_0.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\button_0.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_up_min.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_up_min.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_pause01.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_pause01.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\explode1.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\explode1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\developersset.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\developersset.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\button2_0.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\button2_0.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mac.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mac.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing4.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing4.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\luxiang_s.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\luxiang_s.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mf_bg.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mf_bg.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\scaleplate2.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\scaleplate2.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing2.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing2.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\clock.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_white_light.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_white_light.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\enlarge.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\enlarge.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_return.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_return.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\luxiang.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\luxiang.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\brightness_01_bg.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\brightness_01_bg.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\explode3.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\explode3.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\video_num_front.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\video_num_front.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\setting.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\jinzhi.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\jinzhi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\xiangji.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\xiangji.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\bg_time.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\bg_time.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\autofocus.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\autofocus.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\scaleplate2.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\scaleplate2.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_seekbar01.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_seekbar01.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\ip.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\ip.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\xiguan.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\xiguan.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\iso.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\iso.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing4.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing4.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\wifi_3.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\wifi_3.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focousset1.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focousset1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\shouji.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\shouji.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\explode1.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\explode1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\more.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\more.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\scaleplate.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\scaleplate.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_down_max.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_down_max.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\explode3.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\explode3.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing6.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing6.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_up_max.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_up_max.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\wifi_2.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\wifi_2.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\brightness_bg.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\brightness_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_seekbar01.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_seekbar01.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_down_mid.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_down_mid.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\sd.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\sd.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\export.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\export.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\button_0.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\button_0.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\bofangzhong.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\bofangzhong.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_pause02.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_pause02.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_play01.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_play01.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\ic_cells_launcher.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\ic_cells_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\brightness.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\brightness.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\wifi.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\wifi.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_play02.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_play02.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_pause01.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_pause01.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\contrast.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\contrast.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\screen_scale.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\screen_scale.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\button2_0.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\button2_0.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\view_small.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\view_small.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\info.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\info.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\lock_wifi.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\lock_wifi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\contrast.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\contrast.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\wifi_3.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\wifi_3.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\user_icon.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\user_icon.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\setting.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\redpoint.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\redpoint.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_black_light_big.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_black_light_big.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\dianchi.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\dianchi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\icon_green_light.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\icon_green_light.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\convergence_rate.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\convergence_rate.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\xiangji.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\xiangji.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\lock.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\lock.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\view_small.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\view_small.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mf_bg.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mf_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\stop.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\brightness_01_bg.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\brightness_01_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\plate.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\plate.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\play.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\play.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\scaleplate1.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\scaleplate1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mediacontroller_bg.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mediacontroller_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing1.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\button_1.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\button_1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\arrow_down_mid.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\arrow_down_mid.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\ic_cells_launcher.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\ic_cells_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\focusing2.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\focusing2.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\about.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\about.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\explode2.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\explode2.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\developersset.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\developersset.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\mac.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\mac.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\mipmap-xhdpi\\user_icon.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\mipmap-xhdpi\\user_icon.png"
+    }
+]

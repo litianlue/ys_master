@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test-api</string>
+    <string name="build_host" translatable="false">Administrator@1D8V7AOVAS9ZLNC</string>
+    <string name="build_time" translatable="false">20181231</string>
+</resources>

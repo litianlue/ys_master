@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:rocker_attr="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/camera_view_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.yeespec.microscope.master.activity.MasterActivity"
+    tools:ignore="MergeRootFrame">
+
+    <RelativeLayout
+        android:id="@+id/mainlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <com.yeespec.libuvccamera.uvccamera.widget.UVCCameraTextureView
+            android:id="@+id/camera_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layerType="software"
+            android:layout_weight="1" />
+
+        <FrameLayout
+            android:id="@+id/ad_parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center_horizontal"
+            android:layout_marginTop="@dimen/half_padding"
+            android:gravity="top" />
+
+        <FrameLayout
+            android:id="@+id/operation_ios_brightness"
+            android:layout_width="140dp"
+            android:layout_height="160dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/toast_background"
+            android:orientation="horizontal"
+            android:padding="0dip"
+            android:visibility="invisible">
+
+            <ImageView
+                android:id="@+id/operation_bg"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="24dp"
+                android:src="@mipmap/brightness" />
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center_horizontal"
+                android:paddingBottom="14dp">
+
+                <TextView
+                    android:id="@+id/text_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="86"
+                    android:textColor="#484848"
+                    android:textSize="28sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#484848" />
+            </FrameLayout>
+        </FrameLayout>
+
+        <!-- 设置按钮 -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical">
+
+            <LinearLayout
+                android:layout_width="950dp"
+                android:layout_height="144dp"
+                android:layout_marginLeft="36dp"
+                android:layout_marginTop="24dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <com.yeespec.microscope.widget.raymenu.RayMenu
+                    android:id="@+id/ray_menu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            <!-- 增加显示Gama清晰度的TextView -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="50dp"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/tv_showClarity"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="10dp"
+                            android:text="清晰度 : "
+                            android:textSize="30sp" />
+
+                        <TextView
+                            android:id="@+id/tv_showClarityValue"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="10dp"
+                            android:text="  ... "
+                            android:textSize="30sp" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:id="@+id/tv_showautophoto"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:padding="10dp"
+                        android:text="停止时间:"
+                        android:textColor="#db093e"
+                        android:textSize="30sp"
+                        android:visibility="gone" />
+                    <TextView
+                        android:id="@+id/tv_convergence"
+                        android:layout_below="@+id/tv_showautophoto"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:padding="10dp"
+                        android:text="设定汇合值："
+                        android:textColor="#db093e"
+                        android:textSize="30sp"
+                        android:visibility="gone" />
+
+                    <LinearLayout
+                        android:id="@+id/ly_showValue"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:orientation="horizontal"
+                        android:visibility="invisible">
+
+                        <TextView
+                            android:id="@+id/tv_showFocus"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="10dp"
+                            android:text=""
+                            android:textColor="#db093e"
+                            android:textSize="30sp" />
+
+                        <TextView
+                            android:id="@+id/tv_showFocusValue"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="10dp"
+                            android:text=""
+                            android:textColor="#db093e"
+                            android:textSize="30sp" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+            </LinearLayout>
+        </RelativeLayout>
+
+        <!-- 左下角的当前参数显示 :-->
+        <RelativeLayout
+            android:id="@+id/rocker_relativelayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:paddingBottom="40dp"
+            android:visibility="visible">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="bottom"
+                android:orientation="horizontal">
+
+                <!-- 2017.01.09 添加摇杆 -->
+                <com.yeespec.microscope.widget.rocker.RockerView
+                    android:id="@+id/rockerView_rocker"
+                    android:layout_width="180dp"
+                    android:layout_height="180dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="45dp"
+                    android:visibility="visible"
+                    rocker_attr:areaBackground="#FFCCCCCC"
+                    rocker_attr:rockerBackground="#1d62bc"
+                    rocker_attr:rockerRadius="40dp" />
+
+                <!--<com.yeespec.microscope.widget.rocker.RockerView
+                    android:id="@+id/rockerView_left"
+                    android:layout_width="180dp"
+                    android:layout_height="180dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="45dp"
+                    rocker_attr:areaBackground="@drawable/default_area_bg"
+                    rocker_attr:rockerBackground="@drawable/bg_rocker_blue"
+                    rocker_attr:rockerRadius="30dp" />-->
+
+                <LinearLayout
+                    android:id="@+id/time_layout"
+                    android:layout_width="224dp"
+                    android:layout_height="60dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_margin="25dp"
+                    android:layout_marginLeft="45dp"
+                    android:background="@mipmap/bg_time"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:layout_width="16dp"
+                        android:layout_height="16dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="16dp"
+                        android:background="@mipmap/redpoint" />
+
+                    <TextView
+                        android:id="@+id/time_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="18dp"
+                        android:text="00:00:00"
+                        android:textColor="@color/BLACK"
+                        android:textSize="32sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/layout_showStateValues"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:gravity="center_vertical"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:orientation="horizontal"
+                        android:visibility="visible">
+
+                        <TextView
+                            android:id="@+id/tv_showIOS"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="10dp"
+                            android:text="ISO : "
+                            android:textSize="30sp" />
+
+                        <TextView
+                            android:id="@+id/tv_showIOSValue"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="10dp"
+                            android:text="Value"
+                            android:textSize="30sp" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:gravity="center_vertical"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:orientation="horizontal"
+                        android:visibility="visible">
+
+                        <TextView
+                            android:id="@+id/tv_showGama"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="10dp"
+                            android:text="Gama : "
+                            android:textSize="30sp" />
+
+                        <TextView
+                            android:id="@+id/tv_showGamaValue"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="10dp"
+                            android:text="Value"
+                            android:textSize="30sp" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:gravity="center_vertical"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:orientation="horizontal"
+                        android:visibility="visible">
+
+                        <TextView
+                            android:id="@+id/tv_showBrigthness"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="10dp"
+                            android:text="Brigthness : "
+                            android:textSize="30sp" />
+
+                        <TextView
+                            android:id="@+id/tv_showBrigthnessValue"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="10dp"
+                            android:text="Value"
+                            android:textSize="30sp" />
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+        </RelativeLayout>
+        <!-- 亮度调节按键-->
+        <RelativeLayout
+            android:id="@+id/brightness_setup_btn"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/brightness_button_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:orientation="horizontal"
+                android:paddingBottom="100dp"
+                android:visibility="visible">
+
+                <!-- brightness_button_up_max -->
+                <RelativeLayout
+                    android:layout_width="80dp"
+                    android:layout_height="80dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="true"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/brightness_button_down_max"
+                            android:layout_width="80dp"
+                            android:layout_height="60dp"
+                            android:layout_alignParentLeft="true"
+                            android:background="@mipmap/arrow_up_max"
+                            android:clickable="true"
+                            android:rotation="270" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <!-- brightness_button_up_mid -->
+                <RelativeLayout
+                    android:layout_width="80dp"
+                    android:layout_height="80dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="true"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/brightness_button_down_mid"
+                            android:layout_width="56dp"
+                            android:layout_height="43dp"
+                            android:layout_alignParentLeft="true"
+                            android:background="@mipmap/arrow_up_mid"
+                            android:clickable="true"
+                            android:rotation="270" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <!-- brightness_button_up_min -->
+                <RelativeLayout
+                    android:layout_width="80dp"
+                    android:layout_height="80dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="true"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/brightness_button_down_min"
+                            android:layout_width="56dp"
+                            android:layout_height="43dp"
+                            android:layout_alignParentLeft="true"
+                            android:background="@mipmap/arrow_up_min"
+                            android:clickable="true"
+                            android:rotation="270" />
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+                <!-- brightness_button_down_min -->
+                <RelativeLayout
+                    android:layout_width="80dp"
+                    android:layout_height="80dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="true"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/brightness_button_up_min"
+                            android:layout_width="56dp"
+                            android:layout_height="43dp"
+                            android:layout_alignParentLeft="true"
+                            android:background="@mipmap/arrow_down_min"
+                            android:clickable="true"
+                            android:rotation="270" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <!-- focus_button_down_mid -->
+                <RelativeLayout
+                    android:layout_width="80dp"
+                    android:layout_height="80dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="true"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/brightness_button_up_mid"
+                            android:layout_width="56dp"
+                            android:layout_height="43dp"
+                            android:layout_alignParentLeft="true"
+                            android:background="@mipmap/arrow_down_mid"
+                            android:clickable="true"
+                            android:rotation="270" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <!-- brightness_button_down_max -->
+                <RelativeLayout
+                    android:layout_width="80dp"
+                    android:layout_height="80dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="true"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/brightness_button_up_max"
+                            android:layout_width="80dp"
+                            android:layout_height="60dp"
+                            android:layout_alignParentLeft="true"
+                            android:background="@mipmap/arrow_down_max"
+                            android:clickable="true"
+                            android:rotation="270" />
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/btn_photo_album_layout"
+            android:layout_width="210dp"
+            android:layout_height="170dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="24dp"
+            android:layout_marginRight="36dp">
+
+            <ImageView
+                android:id="@+id/btn_photo_album"
+                android:layout_width="200dp"
+                android:layout_height="150dp"
+                android:layerType="software"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true" />
+            <!--fresco:actualImageScaleType="focusCrop"
+            fresco:failureImageScaleType="centerCrop"
+            fresco:placeholderImageScaleType="fitCenter"
+            fresco:progressBarAutoRotateInterval="1000"
+            fresco:progressBarImageScaleType="centerInside"
+            fresco:retryImageScaleType="centerCrop"
+            fresco:roundAsCircle="false"
+            fresco:roundBottomLeft="false"
+            fresco:roundBottomRight="true"
+            fresco:roundTopLeft="true"
+            fresco:roundTopRight="false"
+            fresco:roundedCornerRadius="1dp"/> -->
+
+            <!-- 用于显示当前拍照的数量的小角图标 -->
+            <RelativeLayout
+                android:id="@+id/photonumber_layout"
+                android:layout_width="58dp"
+                android:layout_height="58dp"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/item_bg_setting_little_gray">
+
+                <ImageView
+                    android:id="@+id/light_info_color"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/icon_bg_setting_light_black"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/text_photo_count"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="00"
+                    android:textColor="@android:color/white"
+                    android:textSize="14sp" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <!-- 定义一个不可见的定位图标点 , 用于获取当前屏幕的绝对坐标系统 , 最大坐标值 -->
+        <ImageView
+            android:id="@+id/im_location_point"
+            android:layout_width="2dp"
+            android:layout_height="2dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:background="@mipmap/redpoint"
+            android:visibility="invisible" />
+
+        <!-- 此处添加图像标尺 用于估算图像微观大小-->
+        <ImageView
+            android:id="@+id/screenscale"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@mipmap/screen_scale"
+            android:visibility="gone">
+
+        </ImageView>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/btn_photo_album_layout"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginRight="20dp"
+            android:layout_toLeftOf="@id/btn_photo_album_layout">
+
+            <TextView
+                android:id="@+id/tv_scaleplateValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/scaleplate"
+                android:gravity="center"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:text="100 um"
+                android:textSize="30sp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/picture_button_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="36dp"
+            android:orientation="vertical"
+            android:paddingBottom="48dp">
+
+            <RelativeLayout
+                android:layout_width="196dp"
+                android:layout_height="196dp">
+
+                <RelativeLayout
+                    android:layout_width="116dp"
+                    android:layout_height="116dp"
+                    android:layout_centerInParent="true">
+
+                    <LinearLayout
+                        android:id="@+id/record_layout"
+                        android:layout_width="116dp"
+                        android:layout_height="116dp"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/bg_camera_operate"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/record_icon"
+                            android:layout_width="56dp"
+                            android:layout_height="32dp"
+                            android:layout_alignParentLeft="true"
+                            android:background="@mipmap/luxiang" />
+
+                        <MediaController
+                            android:id="@+id/mediaController"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/record_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="4dp"
+                        android:background="@mipmap/bofangzhong"
+                        android:visibility="gone" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="196dp"
+                android:layout_height="196dp"
+                android:layout_marginTop="36dp">
+
+                <RelativeLayout
+                    android:layout_width="180dp"
+                    android:layout_height="180dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="36dp">
+
+                    <com.yeespec.microscope.widget.rocker.CircularSeekBar
+                        android:id="@+id/photo_auto_SeekBar"
+                        android:layout_width="180dp"
+                        android:layout_height="180dp"
+                        android:layout_centerInParent="true"
+                        android:visibility="gone"
+                        app:circle_progress_color="#fa2828"
+                        app:circle_x_radius="170dp"
+                        app:circle_y_radius="170dp"
+                        app:max="100"
+                        app:pointer_alpha_ontouch="100"
+                        app:pointer_color="#a8a8ac"
+                        app:pointer_halo_color="#a8a8ac"
+                        app:progress="30"
+                        app:use_custom_radii="true" />
+
+                    <LinearLayout
+                        android:id="@+id/still_layout"
+                        android:layout_width="116dp"
+                        android:layout_height="116dp"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/bg_camera_operate"
+                        android:clickable="true"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/still_icon"
+                            android:layout_width="56dp"
+                            android:layout_height="43dp"
+                            android:layout_alignParentLeft="true"
+                            android:background="@mipmap/xiangji"
+                            android:clickable="true" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/button_photo_auto"
+                        android:layout_width="116dp"
+                        android:layout_height="116dp"
+                        android:layout_centerInParent="true"
+                        android:layout_margin="4dp"
+                        android:background="@mipmap/bofangzhong2"
+                        android:visibility="gone" />
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/focus_button_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="190dp"
+            android:orientation="vertical"
+            android:paddingBottom="100dp"
+            android:visibility="gone">
+
+            <!-- focus_button_up_max -->
+            <RelativeLayout
+                android:layout_width="80dp"
+                android:layout_height="80dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/focus_button_up_max"
+                        android:layout_width="80dp"
+                        android:layout_height="60dp"
+                        android:layout_alignParentLeft="true"
+                        android:background="@mipmap/arrow_up_max"
+                        android:clickable="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <!-- focus_button_up_mid -->
+            <RelativeLayout
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginTop="20dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/focus_button_up_mid"
+                        android:layout_width="56dp"
+                        android:layout_height="43dp"
+                        android:layout_alignParentLeft="true"
+                        android:background="@mipmap/arrow_up_mid"
+                        android:clickable="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <!-- focus_button_up_min -->
+            <RelativeLayout
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginTop="5dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/focus_button_up_min"
+                        android:layout_width="56dp"
+                        android:layout_height="43dp"
+                        android:layout_alignParentLeft="true"
+                        android:background="@mipmap/arrow_up_min"
+                        android:clickable="true" />
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <!-- focus_button_down_min -->
+            <RelativeLayout
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginTop="5dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/focus_button_down_min"
+                        android:layout_width="56dp"
+                        android:layout_height="43dp"
+                        android:layout_alignParentLeft="true"
+                        android:background="@mipmap/arrow_down_min"
+                        android:clickable="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <!-- focus_button_down_mid -->
+            <RelativeLayout
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginTop="5dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/focus_button_down_mid"
+                        android:layout_width="56dp"
+                        android:layout_height="43dp"
+                        android:layout_alignParentLeft="true"
+                        android:background="@mipmap/arrow_down_mid"
+                        android:clickable="true" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <!-- focus_button_down_max -->
+            <RelativeLayout
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginTop="20dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/focus_button_down_max"
+                        android:layout_width="80dp"
+                        android:layout_height="60dp"
+                        android:layout_alignParentLeft="true"
+                        android:background="@mipmap/arrow_down_max"
+                        android:clickable="true" />
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/iso_display_setup"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_marginLeft="70dp">
+
+                <ImageView
+                    android:id="@+id/iso_up"
+                    android:layout_width="80dp"
+                    android:layout_height="60dp"
+                    android:layout_alignParentTop="true"
+                    android:background="@mipmap/arrow_up_max" />
+
+                <ImageView
+                    android:id="@+id/iso_down"
+                    android:layout_width="80dp"
+                    android:layout_height="60dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@mipmap/arrow_down_max" />
+            </RelativeLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="250dp"
+            android:orientation="vertical"
+            android:paddingBottom="48dp">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/start_service_progress"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <ProgressBar
+                style="?android:attr/progressBarStyleLarge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="正在加载中，请稍等....."
+                android:textColor="#c22424"
+                android:textSize="35sp" />
+        </LinearLayout>
+
+        <!-- 添加用于显示对焦图标动画的布局面 -->
+        <LinearLayout
+            android:id="@+id/focus_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" />
+    </RelativeLayout>
+</RelativeLayout>

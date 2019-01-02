@@ -1,0 +1,204 @@
+AGGREGATED OVER LAST 24 HOURS:
+Per-Package Stats:
+  * com.yeespec.microscope.master / u0a129:
+      * com.yeespec.microscope.master:yeespec_uvcservice / u0a129:
+               TOTAL: 9.4% (30MB-77MB-137MB/25MB-73MB-132MB over 62)
+              Imp Fg: 9.4% (30MB-77MB-137MB/25MB-73MB-132MB over 62)
+             Service: 0.00%
+          Service Rs: 0.00%
+            (Cached): 0.10% (90MB-90MB-90MB/86MB-86MB-86MB over 1)
+      * com.yeespec.microscope.master / u0a129:
+               TOTAL: 10% (18MB-20MB-26MB/13MB-15MB-21MB over 118)
+                 Top: 10% (18MB-20MB-26MB/13MB-15MB-21MB over 118)
+              Imp Fg: 0.01%
+            (Cached): 0.00%
+      * com.yeespec.libuvccamera.uvccamera.service.UVCService:
+        Process: com.yeespec.microscope.master:yeespec_uvcservice
+            Running count 76 / time 9.4%
+            Started count 1 / time 0.00%
+              Bound count 73 / time 9.4%
+          Executing count 146 / time 0.02%
+      * com.yeespec.microscope.master.service.MasterIntentService:
+        Process: com.yeespec.microscope.master
+            Running count 73 / time 9.4%
+            Started count 78 / time 0.00%
+              Bound count 73 / time 9.4%
+          Executing count 137 / time 0.01%
+  * com.yeespec.microscope.master / u0a143:
+      * com.yeespec.microscope.master:yeespec_uvcservice / u0a143:
+               TOTAL: 87% (25MB-106MB-284MB/20MB-101MB-280MB over 122)
+              Imp Fg: 87% (25MB-106MB-284MB/20MB-101MB-280MB over 122)
+             Service: 0.01%
+          Service Rs: 0.00%
+            (Cached): 0.00%
+      * com.yeespec.microscope.master / u0a143:
+               TOTAL: 88% (18MB-44MB-228MB/12MB-38MB-222MB over 597)
+                 Top: 88% (18MB-44MB-228MB/12MB-38MB-222MB over 596)
+              Imp Fg: 0.06% (53MB-53MB-53MB/47MB-47MB-47MB over 1)
+             Service: 0.00%
+          (Last Act): 0.00%
+            (Cached): 0.00%
+      * com.yeespec.libuvccamera.uvccamera.service.UVCService:
+        Process: com.yeespec.microscope.master:yeespec_uvcservice
+            Running count 104 / time 87%
+            Started count 6 / time 0.00%
+              Bound count 86 / time 87%
+          Executing count 163 / time 0.03%
+      * com.yeespec.microscope.master.service.MasterIntentService:
+        Process: com.yeespec.microscope.master
+            Running count 86 / time 87%
+            Started count 111 / time 0.01%
+              Bound count 86 / time 87%
+          Executing count 182 / time 0.01%
+
+Summary:
+  * com.yeespec.microscope.master / u0a143:
+           TOTAL: 88% (18MB-44MB-228MB/12MB-38MB-222MB over 597)
+             Top: 88% (18MB-44MB-228MB/12MB-38MB-222MB over 596)
+          Imp Fg: 0.06% (53MB-53MB-53MB/47MB-47MB-47MB over 1)
+         Service: 0.00%
+      (Last Act): 0.00%
+        (Cached): 0.00%
+  * com.yeespec.microscope.master:yeespec_uvcservice / u0a143:
+           TOTAL: 87% (25MB-106MB-284MB/20MB-101MB-280MB over 122)
+          Imp Fg: 87% (25MB-106MB-284MB/20MB-101MB-280MB over 122)
+         Service: 0.01%
+      Service Rs: 0.00%
+        (Cached): 0.00%
+  * com.yeespec.microscope.master / u0a129:
+           TOTAL: 10% (18MB-20MB-26MB/13MB-15MB-21MB over 118)
+             Top: 10% (18MB-20MB-26MB/13MB-15MB-21MB over 118)
+          Imp Fg: 0.01%
+        (Cached): 0.00%
+  * com.yeespec.microscope.master:yeespec_uvcservice / u0a129:
+           TOTAL: 9.4% (30MB-77MB-137MB/25MB-73MB-132MB over 62)
+          Imp Fg: 9.4% (30MB-77MB-137MB/25MB-73MB-132MB over 62)
+         Service: 0.00%
+      Service Rs: 0.00%
+        (Cached): 0.10% (90MB-90MB-90MB/86MB-86MB-86MB over 1)
+
+Run time Stats:
+  SOff/Norm: +2s529ms
+  SOn /Norm: +12h52m9s694ms
+       Mod : +9h24m26s316ms
+      TOTAL: +22h16m38s539ms
+
+          Start time: 2017-07-28 11:03:49
+  Total elapsed time: +22h16m39s894ms (partial) libdvm.so chromeview
+
+AGGREGATED OVER LAST 3 HOURS:
+Per-Package Stats:
+  * com.yeespec.microscope.master / u0a129:
+      * com.yeespec.microscope.master:yeespec_uvcservice / u0a129:
+               TOTAL: 59% (30MB-77MB-137MB/25MB-73MB-132MB over 62)
+              Imp Fg: 58% (30MB-77MB-137MB/25MB-73MB-132MB over 62)
+             Service: 0.02%
+          Service Rs: 0.00%
+            (Cached): 0.62% (90MB-90MB-90MB/86MB-86MB-86MB over 1)
+      * com.yeespec.microscope.master / u0a129:
+               TOTAL: 63% (18MB-20MB-26MB/13MB-15MB-21MB over 118)
+                 Top: 63% (18MB-20MB-26MB/13MB-15MB-21MB over 118)
+              Imp Fg: 0.04%
+            (Cached): 0.00%
+      * com.yeespec.libuvccamera.uvccamera.service.UVCService:
+        Process: com.yeespec.microscope.master:yeespec_uvcservice
+            Running count 76 / time 58%
+            Started count 1 / time 0.00%
+              Bound count 73 / time 58%
+          Executing count 146 / time 0.15%
+      * com.yeespec.microscope.master.service.MasterIntentService:
+        Process: com.yeespec.microscope.master
+            Running count 73 / time 59%
+            Started count 78 / time 0.02%
+              Bound count 73 / time 59%
+          Executing count 137 / time 0.04%
+  * com.yeespec.microscope.master / u0a143:
+      * com.yeespec.microscope.master:yeespec_uvcservice / u0a143:
+               TOTAL: 29% (76MB-85MB-95MB/71MB-81MB-90MB over 5)
+              Imp Fg: 29% (76MB-85MB-95MB/71MB-81MB-90MB over 5)
+      * com.yeespec.microscope.master / u0a143:
+               TOTAL: 29% (21MB-64MB-97MB/15MB-58MB-91MB over 31)
+                 Top: 29% (21MB-64MB-97MB/15MB-58MB-91MB over 30)
+              Imp Fg: 0.20% (53MB-53MB-53MB/47MB-47MB-47MB over 1)
+            (Cached): 0.00%
+      * com.yeespec.libuvccamera.uvccamera.service.UVCService:
+        Process: com.yeespec.microscope.master:yeespec_uvcservice
+            Running count 1 / time 29%
+              Bound count 1 / time 29%
+          Executing count 1 / time 0.00%
+      * com.yeespec.microscope.master.service.MasterIntentService:
+        Process: com.yeespec.microscope.master
+            Running count 1 / time 29%
+            Started count 6 / time 0.00%
+              Bound count 1 / time 29%
+          Executing count 11 / time 0.00%
+
+Summary:
+  * com.yeespec.microscope.master / u0a129:
+           TOTAL: 63% (18MB-20MB-26MB/13MB-15MB-21MB over 118)
+             Top: 63% (18MB-20MB-26MB/13MB-15MB-21MB over 118)
+          Imp Fg: 0.04%
+        (Cached): 0.00%
+  * com.yeespec.microscope.master:yeespec_uvcservice / u0a129:
+           TOTAL: 59% (30MB-77MB-137MB/25MB-73MB-132MB over 62)
+          Imp Fg: 58% (30MB-77MB-137MB/25MB-73MB-132MB over 62)
+         Service: 0.02%
+      Service Rs: 0.00%
+        (Cached): 0.62% (90MB-90MB-90MB/86MB-86MB-86MB over 1)
+  * com.yeespec.microscope.master / u0a143:
+           TOTAL: 29% (21MB-64MB-97MB/15MB-58MB-91MB over 31)
+             Top: 29% (21MB-64MB-97MB/15MB-58MB-91MB over 30)
+          Imp Fg: 0.20% (53MB-53MB-53MB/47MB-47MB-47MB over 1)
+        (Cached): 0.00%
+  * com.yeespec.microscope.master:yeespec_uvcservice / u0a143:
+           TOTAL: 29% (76MB-85MB-95MB/71MB-81MB-90MB over 5)
+          Imp Fg: 29% (76MB-85MB-95MB/71MB-81MB-90MB over 5)
+
+Run time Stats:
+  SOn /Norm: +1h44m7s439ms
+       Mod : +1h50m21s128ms
+      TOTAL: +3h34m28s567ms
+
+          Start time: 2017-07-29 08:58:00
+  Total elapsed time: +3h34m29s913ms (partial) libdvm.so chromeview
+
+CURRENT STATS:
+Per-Package Stats:
+  * com.yeespec.microscope.master / u0a143:
+      * com.yeespec.microscope.master:yeespec_uvcservice / u0a143:
+               TOTAL: 100% (76MB-85MB-95MB/71MB-81MB-90MB over 5)
+              Imp Fg: 100% (76MB-85MB-95MB/71MB-81MB-90MB over 5)
+      * com.yeespec.microscope.master / u0a143:
+               TOTAL: 100% (21MB-64MB-97MB/15MB-58MB-91MB over 31)
+                 Top: 99% (21MB-64MB-97MB/15MB-58MB-91MB over 30)
+              Imp Fg: 0.69% (53MB-53MB-53MB/47MB-47MB-47MB over 1)
+            (Cached): 0.00%
+      * com.yeespec.libuvccamera.uvccamera.service.UVCService:
+        Process: com.yeespec.microscope.master:yeespec_uvcservice
+            Running count 1 / time 100%
+              Bound count 1 / time 100%
+          Executing count 1 / time 0.01%
+      * com.yeespec.microscope.master.service.MasterIntentService:
+        Process: com.yeespec.microscope.master
+            Running count 1 / time 100%
+            Started count 6 / time 0.01%
+              Bound count 1 / time 100%
+          Executing count 11 / time 0.01%
+
+Summary:
+  * com.yeespec.microscope.master / u0a143:
+           TOTAL: 100% (21MB-64MB-97MB/15MB-58MB-91MB over 31)
+             Top: 99% (21MB-64MB-97MB/15MB-58MB-91MB over 30)
+          Imp Fg: 0.69% (53MB-53MB-53MB/47MB-47MB-47MB over 1)
+        (Cached): 0.00%
+  * com.yeespec.microscope.master:yeespec_uvcservice / u0a143:
+           TOTAL: 100% (76MB-85MB-95MB/71MB-81MB-90MB over 5)
+          Imp Fg: 100% (76MB-85MB-95MB/71MB-81MB-90MB over 5)
+
+Run time Stats:
+  SOn /Norm: +11s66ms
+       Mod : +1h2m18s610ms (running)
+      TOTAL: +1h2m29s676ms
+
+          Start time: 2017-07-29 08:58:00
+  Total elapsed time: +1h2m31s126ms (partial) libdvm.so chromeview

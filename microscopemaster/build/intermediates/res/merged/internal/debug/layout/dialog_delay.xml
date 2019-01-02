@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="340dp"
+    android:background="@drawable/toast_background"
+    android:layout_height="200dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:text="加载配置文件失败！"
+        android:textColor="#d62929"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:layout_height="wrap_content" />
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp">
+
+    </FrameLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/exit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#282424"
+            android:textSize="30sp"
+            android:text="退出"/>
+
+        <TextView
+            android:id="@+id/reloading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#282424"
+            android:layout_alignParentRight="true"
+            android:textSize="30sp"
+            android:text="重新加载"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

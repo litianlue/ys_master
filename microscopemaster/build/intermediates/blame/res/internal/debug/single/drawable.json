@@ -1,0 +1,978 @@
+[
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\select.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\select.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\bg_time_update.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\bg_time_update.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\button_pattern.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\button_pattern.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_orange.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_orange.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\bg_border.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\compound.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\compound.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\avoscloud_feedback_actionbar_background.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable\\avoscloud_feedback_actionbar_background.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\composer_icn_plus.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\composer_icn_plus.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\msgbox_send.9.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\msgbox_send.9.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\MicroscopeMaster\\vitamio\\unspecified\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\scrubber_control_selector_holo.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\MicroscopeMaster\\vitamio\\unspecified\\res\\drawable\\scrubber_control_selector_holo.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\radio.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\radio.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\default_rocker_bg.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\default_rocker_bg.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_red.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_red.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mediacontroller_play_button.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\mediacontroller_play_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\dialog.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_exit.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_exit.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\delete.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_game.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_game.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\shape_no_corner_without_bottom.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\shape_no_corner_without_bottom.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_32_right.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_32_right.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\radio_normal.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\radio_normal.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_close.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_close.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\photo_content_bg_white.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\photo_content_bg_white.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_protect.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_protect.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\border.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mf.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\mf.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\explosion.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\explosion.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\item_bg_setting_little_gray.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\item_bg_setting_little_gray.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\bg_rocker_blue.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\bg_rocker_blue.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\scrubber_control_normal_holo.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\scrubber_control_pressed_holo.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\avoscloud_feedback_thread_actionbar_back.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable\\avoscloud_feedback_thread_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_white.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_white.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\radio_checked.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\radio_checked.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\radio.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\radio.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_white.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_white.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_flower.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_flower.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\electricity_seekbar_style.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\electricity_seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\item_bg_setting_white.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\item_bg_setting_white.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\scrubber_control_pressed_holo.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_action.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_action.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\bg_camera_operate.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\bg_camera_operate.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\msgbox_rec.9.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\msgbox_rec.9.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\composer_button.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\composer_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_partner.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_partner.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_clear.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_clear.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_32_expand.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_32_expand.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\target_computer.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\target_computer.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_32_right.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_32_right.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\app_logo.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\composer_button.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\composer_button.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_setting.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_setting.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\recolor_background_top_first.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\recolor_background_top_first.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\area_bg.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\area_bg.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_32_down.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_32_down.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_32_noexpand.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_32_noexpand.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\shape_bottom_corner_no_top_line.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\shape_bottom_corner_no_top_line.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\avoscloud_feedback_actionbar_background.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable\\avoscloud_feedback_actionbar_background.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\msgbox_rec.9.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\msgbox_rec.9.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\item_bg_setting_little_gray.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\item_bg_setting_little_gray.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\shape_bottom_corner_no_top_line.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\shape_bottom_corner_no_top_line.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\default_area_bg.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\default_area_bg.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\item_bg_setting_gray.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\item_bg_setting_gray.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\recolor_background_top_second.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\recolor_background_top_second.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\petridish.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\petridish.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\area_bg.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\area_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_partner.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_partner.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\border.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\view_divider.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\view_divider.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_partner.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_partner.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_16_back.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_16_back.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_comment.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_comment.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\avoscloud_search_result_open_background.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\drawable\\avoscloud_search_result_open_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mediacontroller_seekbar.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\mediacontroller_seekbar.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_btn_light_black.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_btn_light_black.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_32_noexpand.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_32_noexpand.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\toast_background.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\toast_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\radio_normal.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\radio_normal.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_32_expand.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_32_expand.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_blue.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_blue.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\bg_time_update.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\bg_time_update.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_26_down.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_26_down.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_option.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_option.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\photo_content_bg_red.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\photo_content_bg_red.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\recolor_background_top_third.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\recolor_background_top_third.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\avoscloud_feedback_thread_actionbar_back.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable\\avoscloud_feedback_thread_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\bg_border.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\recolor_background_bottom.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\recolor_background_bottom.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\MicroscopeMaster\\vitamio\\unspecified\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\view_divider.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\view_divider.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_raymenu_light_green.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_raymenu_light_green.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\shape_top_corner_no_bottom_line.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\shape_top_corner_no_bottom_line.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_save.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_save.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\composer_icn_plus.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\composer_icn_plus.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\photo_content_bg_red.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\photo_content_bg_red.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\petridish.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\petridish.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_dot.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_dot.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_blue.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_blue.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\scrubber_control_normal_holo.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_green.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_green.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_flower.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_flower.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\default_rocker_bg.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\default_rocker_bg.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\item_bg_setting_white.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\item_bg_setting_white.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\rocker_bg.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\rocker_bg.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\recolor_background_top_second.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\recolor_background_top_second.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mf.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\mf.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_purple.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_purple.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_partner.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_partner.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_black.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_black.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\default_area_bg.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\default_area_bg.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_green.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_green.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_comment.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_comment.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\recolor_background_top_third.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\recolor_background_top_third.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_black.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_black.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\rocker_bg.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\rocker_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_red.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_red.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\button_pattern.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\button_pattern.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mediacontroller_seekbar_thumb.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\mediacontroller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mediacontroller_pause_button.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\mediacontroller_pause_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\shape_top_corner_no_bottom_line.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\shape_top_corner_no_bottom_line.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\carrier.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\carrier.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\compound.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\compound.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\explosion.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\explosion.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\shape_no_corner_without_bottom.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\shape_no_corner_without_bottom.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_32_down.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_32_down.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_btn_light_black.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_btn_light_black.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_exit.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_exit.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mediacontroller_seekbar.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\mediacontroller_seekbar.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\app_loading.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\app_loading.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\toast_background.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\toast_background.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_game.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_game.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\app_loading.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\app_loading.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_close.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_close.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\plate.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\plate.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_umbrella.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_umbrella.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_action.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_action.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\app_logo.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\target_computer.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\target_computer.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_16_back.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_16_back.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mediacontroller_button.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\MicroscopeMaster\\vitamio\\unspecified\\res\\drawable\\mediacontroller_button.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\delete.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\electricity_seekbar_style.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\electricity_seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\carrier.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\carrier.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\storage_seekbar_style.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\storage_seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_setting.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_setting.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_orange.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_orange.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mediacontroller_play_button.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\mediacontroller_play_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\radio_checked.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\radio_checked.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_umbrella.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_umbrella.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\select.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\select.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\dialog.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_dot.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_dot.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mediacontroller_seekbar_thumb.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\mediacontroller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_26_up.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_26_up.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_26_down.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_26_down.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\item_bg_setting_gray.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\item_bg_setting_gray.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\avoscloud_search_actionbar_back.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\drawable\\avoscloud_search_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\plate.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\plate.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mediacontroller_button.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\MicroscopeMaster\\vitamio\\unspecified\\res\\drawable\\mediacontroller_button.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_protect.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_protect.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\avoscloud_search_actionbar_back.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\drawable\\avoscloud_search_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_history.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_history.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\msgbox_send.9.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\msgbox_send.9.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_26_up.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_26_up.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\scrubber_control_selector_holo.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\MicroscopeMaster\\vitamio\\unspecified\\res\\drawable\\scrubber_control_selector_holo.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\private_48.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\private_48.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\bg_rocker_blue.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\bg_rocker_blue.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\mediacontroller_pause_button.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\mediacontroller_pause_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_save.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_save.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\recolor_background_bottom.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\recolor_background_bottom.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\avoscloud_search_result_open_background.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\drawable\\avoscloud_search_result_open_background.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_option.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_option.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\bg_camera_operate.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\bg_camera_operate.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_raymenu_light_green.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_raymenu_light_green.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\recolor_background_top_first.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\recolor_background_top_first.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\storage_seekbar_style.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\storage_seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\icon_bg_setting_light_purple.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\icon_bg_setting_light_purple.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_48_clear.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_48_clear.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\_64_main_menu_history.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\_64_main_menu_history.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\private_48.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\private_48.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable\\photo_content_bg_white.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\drawable\\photo_content_bg_white.xml"
+    }
+]

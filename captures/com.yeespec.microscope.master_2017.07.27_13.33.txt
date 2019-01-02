@@ -1,0 +1,33 @@
+Applications Memory Usage (kB):
+Uptime: 74378504 Realtime: 74378504
+
+** MEMINFO in pid 3762 [com.yeespec.microscope.master] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    39647    39616        0        0    54512    28649      966
+  Dalvik Heap    11578    11456        0        0    14440    13666      774
+ Dalvik Other     3155     3000        0        0                           
+        Stack     1120     1120        0        0                           
+       Ashmem    22784    22784        0        0                           
+    Other dev        9        0        8        0                           
+     .so mmap     5759     2368      244        0                           
+    .apk mmap      107        0       44        0                           
+    .ttf mmap       96        0       64        0                           
+    .dex mmap     4783       44     3132        0                           
+   Other mmap       21        4        4        0                           
+      Unknown      768      768        0        0                           
+        TOTAL    89827    81160     3496        0    68952    42315     1740
+ 
+ Objects
+               Views:      395         ViewRootImpl:        6
+         AppContexts:        5           Activities:        2
+              Assets:        2        AssetManagers:        2
+       Local Binders:       42        Proxy Binders:       28
+    Death Recipients:        2
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:       62
+ 

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/WHITE"
+    tools:context="com.yeespec.microscope.master.activity.ImageActivity">
+
+    <RelativeLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@color/title_color">
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/btn_return"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:drawableStart="@mipmap/icon_return"
+            android:gravity="center"
+
+            android:text="返回"
+            android:textColor="@color/WHITE"
+            android:textSize="27sp" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="0dp"
+            android:layout_weight="5"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Title"
+            android:textColor="@color/WHITE"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/tv_del"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/delete"
+            />
+        <TextView
+            android:id="@+id/reName"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_alignParentRight="@+id/tv_del"
+            android:textSize="25sp"
+            android:textColor="@color/WHITE"
+            android:text="重命名"
+            android:layout_height="match_parent"/>
+      </LinearLayout>
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar"
+        android:orientation="vertical">
+
+        <com.yeespec.microscope.master.custom.ImageControl
+            android:id="@+id/image_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true" />
+    </LinearLayout>
+</RelativeLayout>

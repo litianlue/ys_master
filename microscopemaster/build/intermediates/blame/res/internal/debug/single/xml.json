@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\xml\\device_filter_camera.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\xml\\device_filter_camera.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\xml\\lock_screen.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\xml\\lock_screen.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\xml\\device_filter.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\xml\\device_filter_camera.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\xml\\device_filter_camera.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\xml\\lock_screen.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\xml\\lock_screen.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\xml\\device_filter.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\xml\\device_filter.xml"
+    }
+]

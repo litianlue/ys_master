@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+
+    <!-- 0x0403 / 0x6001: FTDI FT232R UART -->
+    <usb-device
+        product-id="24577"
+        vendor-id="1027"/>
+
+    <!-- 0x0403 / 0x6015: FTDI FT231X -->
+    <usb-device
+        product-id="24597"
+        vendor-id="1027"/>
+
+    <!-- 0x2341 / Arduino -->
+    <usb-device vendor-id="9025"/>
+
+    <!-- 0x16C0 / 0x0483: Teensyduino  -->
+    <usb-device
+        product-id="1155"
+        vendor-id="5824"/>
+
+    <!-- 0x10C4 / 0xEA60: CP210x UART Bridge -->
+    <usb-device
+        product-id="60000"
+        vendor-id="4292"/>
+
+    <!-- 0x067B / 0x2303: Prolific PL2303 -->
+    <usb-device
+        product-id="8963"
+        vendor-id="1659"/>
+
+    <!-- 0x1a86 / 0x7523: Qinheng CH340 -->
+    <usb-device
+        product-id="29987"
+        vendor-id="6790"/>
+
+    <!-- CH34x -->
+    <usb-device
+        product-id="21795"
+        vendor-id="6790"/>
+
+    <!--   FTDI other -->
+    <usb-device
+        product-id="688"
+        vendor-id="1118"/>
+
+    <usb-device
+        product-id="45088"
+        vendor-id="1412"/>
+
+    <usb-device
+        product-id="24596"
+        vendor-id="1027"/>
+    <usb-device
+        product-id="24592"
+        vendor-id="1027"/>
+    <usb-device
+        product-id="24593"
+        vendor-id="1027"/>
+
+    <!-- USB摄像头 -->
+    <!-- all device of UVC -->
+    <usb-device
+        class="239"
+        subclass="2"/>
+
+    <!-- 以下为检测到的USB转串口设备信息 :-->
+    <!-- <usb-device
+         product-id="29987"
+         vendor-id="6790"
+         class="255"/>-->
+
+
+    <!--=======================-->
+    <!-- all device of UVC -->
+    <!-- <usb-device
+         class="239"
+         subclass="2"/>    -->
+    <!-- <usb-device
+        product-id="248"
+        vendor-id="1204"
+        class="239"
+        subclass="2"/>-->
+
+</resource>

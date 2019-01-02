@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/content_bg"
+        android:layout_width="140dp"
+        android:layout_height="107dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/photo_content_bg_red">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/id_index_gallery_item_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:paddingBottom="2dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingTop="2dp"
+            fresco:actualImageScaleType="focusCrop"
+            fresco:failureImageScaleType="centerCrop"
+            fresco:placeholderImageScaleType="fitCenter"
+            fresco:progressBarAutoRotateInterval="1000"
+            fresco:progressBarImageScaleType="centerInside"
+            fresco:retryImageScaleType="centerCrop"
+            fresco:roundAsCircle="false"
+            fresco:roundBottomLeft="false"
+            fresco:roundBottomRight="true"
+            fresco:roundTopLeft="true"
+            fresco:roundTopRight="false"
+            fresco:roundedCornerRadius="1dp" />
+
+        <ImageView
+            android:id="@+id/type"
+            android:layout_width="32dp"
+            android:layout_height="32dp" />
+        <CheckBox
+            android:id="@+id/cb1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:visibility="invisible"
+            android:layout_gravity="center_horizontal" />
+
+    </RelativeLayout>
+</RelativeLayout>

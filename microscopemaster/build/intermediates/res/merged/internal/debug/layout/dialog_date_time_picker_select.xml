@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="450dp"
+                android:layout_height="320dp">
+
+    <ImageView
+        android:layout_width="450dp"
+        android:layout_height="320dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/toast_background"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="4dp"
+            android:text="设置时间"
+            android:textColor="#246cca"
+            android:textSize="36sp"/>
+
+        <TextView
+            android:id="@+id/setting_label_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="10dp"
+            android:text="2016年09月28日 09:32"
+            android:textColor="#5b5c5d"
+            android:textSize="30sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="12dp"
+            android:orientation="horizontal">
+
+            <DatePicker
+                android:id="@+id/datepicker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:calendarViewShown="false"/>
+
+            <TimePicker
+                android:id="@+id/timepicker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/setting_confirm_button"
+                android:layout_width="140dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bg_time_update"
+                android:text="设置"
+                android:textColor="@color/WHITE"
+                android:textSize="16sp"/>
+
+            <Button
+                android:id="@+id/setting_cancel_btn"
+                android:layout_width="140dp"
+                android:layout_height="32dp"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/bg_time_update"
+                android:text="取消"
+                android:textColor="@color/WHITE"
+                android:textSize="16sp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

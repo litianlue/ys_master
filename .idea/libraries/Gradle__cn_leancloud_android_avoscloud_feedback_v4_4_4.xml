@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.leancloud.android:avoscloud-feedback-v4.4.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/microscopemaster/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-feedback/v4.4.4/res" />
+      <root url="jar://$PROJECT_DIR$/microscopemaster/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-feedback/v4.4.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="600dp"
+                android:layout_height="600dp">
+
+    <ImageView
+        android:layout_width="600dp"
+        android:layout_height="600dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/toast_background"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/self_check_label_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="12dp"
+            android:text="系统配置"
+            android:textColor="#5b5c5d"
+            android:textSize="36sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:text="版本 : "
+                    android:textColor="#5b5c5d"
+                    android:textSize="30sp"/>
+
+                <CheckBox
+                    android:id="@+id/check_version"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text=" 接 口 "
+                    android:textColor="#5b5c5d"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="物镜 : "
+                android:textColor="#5b5c5d"
+                android:textSize="30sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <!-- 物镜01 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <CheckBox
+                        android:id="@+id/check_lens_01"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="物镜1(左)"
+                        android:textColor="#5b5c5d"
+                        android:textSize="30sp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:text="倍数 : "
+                            android:textColor="#5b5c5d"
+                            android:textSize="30sp"/>
+
+                        <EditText
+                            android:id="@+id/et_lens_01"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:inputType="number"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:text="焦面 : "
+                            android:textColor="#5b5c5d"
+                            android:textSize="30sp"/>
+
+                        <EditText
+                            android:id="@+id/et_plans_01"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:inputType="datetime"
+                            />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <!-- 物镜02 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <CheckBox
+                        android:id="@+id/check_lens_02"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="物镜2(右)"
+                        android:textColor="#5b5c5d"
+                        android:textSize="30sp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:text="倍数 : "
+                            android:textColor="#5b5c5d"
+                            android:textSize="30sp"/>
+
+                        <EditText
+                            android:id="@+id/et_lens_02"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:inputType="number"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:text="焦面 : "
+                            android:textColor="#5b5c5d"
+                            android:textSize="30sp"/>
+
+                        <EditText
+                            android:id="@+id/et_plans_02"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:inputType="datetime"
+                            />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_weight="1"
+                    android:text="激发光源 : "
+                    android:textColor="#5b5c5d"
+                    android:textSize="30sp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/check_laser_01"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="20dp"
+                        android:text="激发光01(白)"
+                        android:textColor="#5b5c5d"
+                        android:textSize="30sp"/>
+
+                    <CheckBox
+                        android:id="@+id/check_laser_02"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="10dp"
+                        android:text="激发光02(绿)"
+                        android:textColor="#5b5c5d"
+                        android:textSize="30sp"/>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/check_laser_03"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="20dp"
+                        android:text="激发光03(蓝)"
+                        android:textColor="#5b5c5d"
+                        android:textSize="30sp"/>
+
+                    <CheckBox
+                        android:id="@+id/check_laser_04"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="10dp"
+                        android:text="激发光04(紫)"
+                        android:textColor="#5b5c5d"
+                        android:textSize="30sp"/>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/check_laser_05"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="20dp"
+                        android:text="激发光05(黑)"
+                        android:textColor="#5b5c5d"
+                        android:textSize="30sp"/>
+
+                    <CheckBox
+                        android:id="@+id/check_laser_06"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="10dp"
+                        android:text="激发光06(待)"
+                        android:textColor="#5b5c5d"
+                        android:textSize="30sp"/>
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/et_lasers_select"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:focusable="false"
+                android:inputType="datetime"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="12dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/setting_btn"
+                android:layout_width="140dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/bg_time_update"
+                android:text="配置"
+                android:textColor="@color/WHITE"
+                android:textSize="30sp"/>
+
+            <Button
+                android:id="@+id/cancel_btn"
+                android:layout_width="140dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/bg_time_update"
+                android:text="退出"
+                android:textColor="@color/WHITE"
+                android:textSize="30sp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

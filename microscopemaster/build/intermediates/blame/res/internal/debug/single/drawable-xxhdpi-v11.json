@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable-xxhdpi-v11\\leak_canary_notification.png",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\drawable-xxhdpi-v11\\leak_canary_notification.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\drawable-xxhdpi-v11\\leak_canary_notification.png",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\drawable-xxhdpi-v11\\leak_canary_notification.png"
+    }
+]

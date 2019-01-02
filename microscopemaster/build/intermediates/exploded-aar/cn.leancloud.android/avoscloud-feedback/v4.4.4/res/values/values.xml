@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/avos/avos/jenkins/workspace/avoscloud-Android-sdk-release/avoscloud-feedback/src/main/res/values/avoscloud_feedback_color.xml -->
+    <eat-comment/>
+    <color name="avoscloud_feedback_back_background">#333333</color>
+    <color name="avoscloud_feedback_input_wrap_background">#f8f8f8</color>
+    <color name="avoscloud_feedback_text_gray">#898989</color>
+    <color name="avoscloud_feedback_thread_actionbar_blue">#56b8f4</color>
+    <color name="avoscloud_feedback_thread_header_background">#000</color>
+    <color name="avoscloud_feedback_white">#fff</color>
+    <color name="avoscloud_timestamp_gray">#888</color>
+    <!-- From: file:/Users/avos/avos/jenkins/workspace/avoscloud-Android-sdk-release/avoscloud-feedback/src/main/res/values/avoscloud_feedback_string.xml -->
+    <eat-comment/>
+    <string name="avoscloud_feedback_app_name">AvosCloudFeedback</string>
+    <string name="avoscloud_feedback_contact_hint">Contact information</string>
+    <string name="avoscloud_feedback_input_hint">Write your feedback</string>
+    <string name="avoscloud_feedback_just_now">Just Now</string>
+    <string name="avoscloud_feedback_new_item">Got new reply </string>
+    <string name="avoscloud_feedback_select_image">Select Image</string>
+    <string name="avoscloud_feedback_send_text">Send</string>
+    <string name="avoscloud_feedback_thread_activity_title">Feedback</string>
+</resources>

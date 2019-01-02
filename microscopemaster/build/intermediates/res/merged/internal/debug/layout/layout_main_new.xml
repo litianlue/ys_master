@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+             android:background="@color/app_background"
+             android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="5.0dip"
+        android:orientation="vertical">
+
+        <!-- 发送区域布局 -->
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="2.0"
+            android:orientation="vertical">
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal">
+
+                    <TextView
+                        android:id="@+id/txt_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center_horizontal"
+                        android:text="@string/info_receive"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:layout_width="0.0dip"
+                        android:layout_height="40.0dip"
+                        android:layout_weight="0.9"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="@string/info_receiveCount"
+                            android:textColor="@color/BLACK"
+                            android:textSize="12.0sp"/>
+
+                        <TextView
+                            android:id="@+id/txt_recCount"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="@string/zero"
+                            android:textColor="@color/BLACK"
+                            android:textSize="13.0sp"/>
+                    </LinearLayout>
+
+                    <CheckBox
+                        android:id="@+id/check_recHex"
+                        android:layout_width="0.0dip"
+                        android:layout_height="40.0dip"
+                        android:layout_weight="1.1"
+                        android:text="@string/info_hexShow"
+                        android:textColor="@color/BLACK"
+                        android:textSize="13.0sp"/>
+
+                    <ToggleButton
+                        android:id="@+id/toggle_recPause"
+                        android:layout_width="0.0dip"
+                        android:layout_height="40.0dip"
+                        android:layout_weight="1.0"
+                        android:textOff="暂停接收"
+                        android:textOn="恢复运行"
+                        android:textSize="13.0sp"/>
+
+                    <Button
+                        android:id="@+id/btn_recClear"
+                        style="?android:attr/buttonStyleSmall"
+                        android:layout_width="0.0dip"
+                        android:layout_height="40.0dip"
+                        android:layout_weight="1.0"
+                        android:text="@string/info_clearRec"
+                        android:textSize="13.0sp"/>
+                </TableRow>
+            </TableLayout>
+
+            <ScrollView
+                android:id="@+id/view_scrollView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <EditText
+                    android:id="@+id/edit_recArea"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginBottom="3.0dip"
+                    android:layout_marginTop="3.0dip"
+                    android:background="@color/d_floralwhite"
+                    android:gravity="center|left|top"
+                    android:hint="@string/info_receiveHint"
+                    android:inputType="none"
+                    android:padding="3.0dip"/>
+            </ScrollView>
+
+        </LinearLayout>
+
+        <!-- 发送区域布局 -->
+        <LinearLayout
+            android:id="@+id/layout_sendArea"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:orientation="vertical">
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dip"
+                android:background="@drawable/view_divider"/>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3.0dip"
+                android:orientation="vertical">
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal">
+
+                    <TextView
+                        android:id="@+id/txt_sendAreaTip"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:clickable="true"
+                        android:drawableRight="@drawable/_26_down"
+                        android:gravity="center_horizontal"
+                        android:text="@string/info_send"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:layout_width="0.0dip"
+                        android:layout_height="40.0dip"
+                        android:layout_weight="0.9"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="@string/info_sendCount"
+                            android:textColor="@color/BLACK"
+                            android:textSize="12.0sp"/>
+
+                        <TextView
+                            android:id="@+id/txt_sendCount"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="@string/zero"
+                            android:textColor="@color/BLACK"
+                            android:textSize="13.0sp"/>
+                    </LinearLayout>
+
+                    <CheckBox
+                        android:id="@+id/check_sendHex"
+                        android:layout_width="0.0dip"
+                        android:layout_height="40.0dip"
+                        android:layout_weight="1.1"
+                        android:text="@string/info_hexSend"
+                        android:textColor="@color/BLACK"
+                        android:textSize="13.0sp"/>
+
+                    <ToggleButton
+                        android:id="@+id/toggle_sendMemory"
+                        android:layout_width="0.0dip"
+                        android:layout_height="40.0dip"
+                        android:layout_weight="1.0"
+                        android:textOff="发送记忆"
+                        android:textOn="关闭记忆"
+                        android:textSize="13.0sp"/>
+
+                    <Button
+                        android:id="@+id/btn_sendClear"
+                        style="?android:attr/buttonStyleSmall"
+                        android:layout_width="0.0dip"
+                        android:layout_height="40.0dip"
+                        android:layout_weight="1.0"
+                        android:text="@string/info_clearSend"
+                        android:textSize="13.0sp"/>
+                </TableRow>
+            </TableLayout>
+
+            <EditText
+                android:id="@+id/edit_sendArea"
+                android:layout_width="fill_parent"
+                android:layout_height="0.0dip"
+                android:layout_marginBottom="3.0dip"
+                android:layout_marginTop="3.0dip"
+                android:layout_weight="1.0"
+                android:background="@color/d_floralwhite"
+                android:gravity="center|left|top"
+                android:hint="@string/info_sendHint"
+                android:inputType="none"
+                android:padding="3.0dip"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5.0dip"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal">
+
+                <ToggleButton
+                    android:id="@+id/toggle_auto"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40.0dip"
+                    android:textOff="自动发送"
+                    android:textOn="关闭自动"
+                    android:textSize="15.0sp"/>
+
+                <Button
+                    android:id="@+id/btn_send"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40.0dip"
+                    android:text="@string/info_sendHandle"
+                    android:textSize="15.0sp"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!-- 发送区显示条 Bar -->
+        <LinearLayout
+            android:id="@+id/layout_sendAreaBar"
+            android:layout_width="fill_parent"
+            android:layout_height="48.0dip"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dip"
+                android:background="@drawable/view_divider"/>
+
+            <TextView
+                android:id="@+id/txt_sendAreaBar"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:clickable="true"
+                android:drawableRight="@drawable/_26_up"
+                android:gravity="center"
+                android:text="@string/info_send"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center|left"
+        android:background="@drawable/_64_dot"
+        android:clickable="true"
+        android:contentDescription="@string/Null"/>
+
+   <!-- <com.ftdi.view.menu_satellite.SatelliteMenu
+        android:id="@+id/menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center|left"
+        android:layout_margin="50.0dip"
+        android:visibility="invisible"/>-->
+</FrameLayout>

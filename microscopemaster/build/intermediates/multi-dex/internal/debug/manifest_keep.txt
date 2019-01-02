@@ -1,0 +1,38 @@
+-keep class com.yeespec.microscope.master.application.BaseApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.yeespec.microscope.master.receiver.AdminReceiver { <init>(); }
+-keep class com.yeespec.libuvccamera.uvccamera.service.UVCService { <init>(); }
+-keep class com.yeespec.microscope.master.service.GuardService { <init>(); }
+-keep class com.yeespec.microscope.master.service.MyIntentService { <init>(); }
+-keep class com.yeespec.microscope.master.service.MasterIntentService { <init>(); }
+-keep class com.yeespec.microscope.master.activity.PhotoAlbumActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.SettingActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.OnePiexlActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.TestActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.SplashActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.YeeSpecActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.MasterActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.ImageActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.PlayVideoActvitity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.AboutActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.DeviceListActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.UsbSerialActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.PowerTestActivity { <init>(); }
+-keep class com.yeespec.microscope.master.activity.RockerViewActivity { <init>(); }
+-keep class com.yeespec.libuvccamera.bluetooth.BluetoothActivity { <init>(); }
+-keep class com.yeespec.libuvccamera.bluetooth.DeviceActivity { <init>(); }
+-keep class com.yeespec.libuvccamera.bluetooth.ChatActivity { <init>(); }
+-keep class com.yeespec.microscope.master.receiver.BootBroadcastReceiver { <init>(); }
+-keep class com.avos.avoscloud.PushService { <init>(); }
+-keep class com.avos.avoscloud.AVBroadcastReceiver { <init>(); }
+-keep class com.yeespec.microscope.utils.wifidirect.FileTransferService { <init>(); }
+-keep class com.yeespec.microscope.utils.wifidirect.DataTransferService { <init>(); }
+-keep class com.yeespec.microscope.master.receiver.BluetoothConnectActivityReceiver { <init>(); }
+-keep class io.vov.vitamio.activity.InitActivity { <init>(); }
+-keep class com.avos.avoscloud.search.SearchActivity { <init>(); }
+-keep class com.squareup.leakcanary.internal.HeapAnalyzerService { <init>(); }
+-keep class com.squareup.leakcanary.DisplayLeakService { <init>(); }
+-keep class com.squareup.leakcanary.internal.DisplayLeakActivity { <init>(); }
+-keep class com.squareup.leakcanary.internal.RequestStoragePermissionActivity { <init>(); }

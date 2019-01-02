@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/WHITE"
+                android:orientation="vertical"
+                tools:context="com.yeespec.microscope.master.activity.PhotoAlbumActivity">
+
+    <RelativeLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:background="@color/title_color">
+
+        <TextView
+            android:id="@+id/btn_return"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:drawableLeft="@mipmap/icon_return"
+            android:drawablePadding="18dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:text="返回"
+            android:textColor="@color/WHITE"
+            android:textSize="27sp" />
+
+
+
+        <TextView
+            android:id="@+id/tv_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="相  册"
+            android:textColor="@color/WHITE"
+            android:textSize="33sp" />
+
+
+        <ImageView
+            android:id="@+id/tv_select"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_alignParentTop="true"
+            android:layout_toStartOf="@+id/tv_compound"
+            android:src="@drawable/select"/>
+
+        <ImageView
+            android:id="@+id/tv_compound"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_alignParentTop="true"
+            android:layout_toStartOf="@+id/tv_del"
+            android:src="@drawable/compound"/>
+
+        <ImageView
+            android:id="@+id/tv_del"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:paddingLeft="12dp"
+            android:paddingRight="18dp"
+            android:gravity="center_vertical"
+            android:src="@drawable/delete"
+            />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView2"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/tv_compound" />
+
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/id_recyclerview_horizontal"
+        android:layout_below="@+id/title_bar">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+
+        <LinearLayout
+            android:id="@+id/ic_video_play"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:background="@drawable/bg_camera_operate"
+            android:gravity="center"
+            android:visibility="gone"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_marginLeft="14dp"
+                android:background="@mipmap/play"
+                android:visibility="visible" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <com.yeespec.microscope.master.custom.MyRecyclerView
+        android:id="@+id/id_recyclerview_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="99dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:background="@android:color/white"
+        android:scrollbars="none" />
+</RelativeLayout>

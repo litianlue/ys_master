@@ -1,0 +1,1034 @@
+[
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_image.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_alert_delete_all.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_alert_delete_all.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_new_master.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_new_master.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\growth_rate_dialog.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\growth_rate_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_feedback_dev_reply.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\layout\\avoscloud_feedback_dev_reply.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\connectphonenumber.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\connectphonenumber.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_about.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\layout_main_new.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\layout_main_new.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_password_toast.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_password_toast.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_system_config_toast.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_system_config_toast.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_electric_toastset.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_electric_toastset.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_recolor_select.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_recolor_select.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\userregistlayout.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\userregistlayout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_progress_compound.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_progress_compound.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_export.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_export.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_filerename.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_filerename.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\spinner_province.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\spinner_province.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_filerename.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_filerename.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_saturation_lights.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_saturation_lights.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\playvideo_activity.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\playvideo_activity.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_recolor_setting.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_recolor_setting.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\power_test_activity.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\power_test_activity.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_about.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\toast_layout.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\toast_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_camera.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_camera.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_recolor_select.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_recolor_select.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_delayfilerename.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_delayfilerename.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_feedback_dev_reply.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\layout\\avoscloud_feedback_dev_reply.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_set_parameter.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_set_parameter.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_setting_button.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_setting_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_system_config_toast.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_system_config_toast.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_camera_select.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_camera_select.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_progress_record.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_progress_record.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\card_item.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\card_item.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_alert_delete.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_alert_delete.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_alert_delete_all.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_alert_delete_all.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\card_item.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\card_item.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\autophoto_pop_sate.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\autophoto_pop_sate.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_bluetooth.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_bluetooth.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\connectphonenumber.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\connectphonenumber.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\arc_menu.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\arc_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\spinner_province.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\spinner_province.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_wifi_content.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_wifi_content.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\select_user_alerlog.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\select_user_alerlog.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\photofagment.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\photofagment.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_search_activity.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\layout\\avoscloud_search_activity.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_photo_album.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_photo_album.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_auto_photo_select.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_auto_photo_select.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_video_filerename.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_video_filerename.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_wifi_content.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_wifi_content.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\photofagment.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\photofagment.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_search_loading.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\layout\\avoscloud_search_loading.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_timeset.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_timeset.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_search_result_item.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\layout\\avoscloud_search_result_item.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_devices.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_devices.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_image.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_camera.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_camera.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_feedback_user_reply.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\layout\\avoscloud_feedback_user_reply.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_delay.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_delay.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_contract.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_contract.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_date_time_picker_select.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_date_time_picker_select.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\playvideo_activity.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\playvideo_activity.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_search_activity.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\layout\\avoscloud_search_activity.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_progress_loding.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_progress_loding.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_delay.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_delay.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_deleloper.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_deleloper.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\select_user_alerlog.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\select_user_alerlog.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_timeset.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_timeset.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_warn_limit_toast.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_warn_limit_toast.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_rocker.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_rocker.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_export_toast.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_export_toast.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\cread_user_alialog.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\cread_user_alialog.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_set_parameter.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_set_parameter.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\videofragment.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\videofragment.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_search_loading.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\layout\\avoscloud_search_loading.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_camera_select.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_camera_select.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\layout_main_new.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\layout_main_new.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_video_filerename.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_video_filerename.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_rocker.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_rocker.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_self_check_toast.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_self_check_toast.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_new_master.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_new_master.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_menu_setting_new.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_menu_setting_new.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_export_toast.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_export_toast.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_wifi_confirm.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_wifi_confirm.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_alert_delete.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_alert_delete.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\autofocus_alerlog.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\autofocus_alerlog.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\spinneritem.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\spinneritem.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_menu_motor_control.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_menu_motor_control.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_electric_toast.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_electric_toast.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_menu_motor_control.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_menu_motor_control.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_progress_exitapp.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_progress_exitapp.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\autofocus_alerlog.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\autofocus_alerlog.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_photo_album.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_photo_album.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_export.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_export.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_camera_content.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_camera_content.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_warn_limit_toast.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_warn_limit_toast.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\list_item.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\comman_datetime.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\comman_datetime.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\videoview.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\videoview.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\ray_menu.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\ray_menu.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\power_test_activity.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\power_test_activity.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\cread_user_alialog.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\cread_user_alialog.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\spinneritem.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\spinneritem.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_contract.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_contract.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\popup_window_saturation_select.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\popup_window_saturation_select.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_progress_record.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_progress_record.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_deleloper.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_deleloper.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\autofocuspop_window.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\autofocuspop_window.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_menu_setting_new.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_menu_setting_new.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_delayfilerename.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_delayfilerename.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_search_actionbar.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\layout\\avoscloud_search_actionbar.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_auto_photo_select.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_auto_photo_select.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\objectivepop_window.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\objectivepop_window.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_saturation_lights.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_saturation_lights.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\list_item.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_date_time_picker_select.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_date_time_picker_select.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_index_gallery.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_index_gallery.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_devices.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_devices.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\videofragment.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\videofragment.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_device_select.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_device_select.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_progress_compound.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_progress_compound.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\growth_rate_dialog.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\growth_rate_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_contract.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_contract.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\userregistlayout.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\userregistlayout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\autophoto_pop_sate.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\autophoto_pop_sate.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\select_use_user_alerlog.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\select_use_user_alerlog.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_deleloper_setdiolog.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_deleloper_setdiolog.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_progress_exitapp.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_progress_exitapp.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_password_toast.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_password_toast.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_feedback_activity_conversation.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\layout\\avoscloud_feedback_activity_conversation.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\videoview.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\videoview.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_feedback_activity_conversation.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\layout\\avoscloud_feedback_activity_conversation.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_electric_toast.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_electric_toast.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\toast_layout.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\toast_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_search_actionbar.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\layout\\avoscloud_search_actionbar.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_progress_loding.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_progress_loding.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\main_list.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\main_list.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\imagefragment.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\imagefragment.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\main_list.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\main_list.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\imagefragment.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\imagefragment.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_recolor_setting.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_recolor_setting.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\autofocuspop_window.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\autofocuspop_window.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\popup_window_saturation_select.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\popup_window_saturation_select.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_device_select.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_device_select.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_feedback_thread_actionbar.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\layout\\avoscloud_feedback_thread_actionbar.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\activity_bluetooth.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\activity_bluetooth.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\ray_menu.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\ray_menu.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_feedback_thread_actionbar.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\layout\\avoscloud_feedback_thread_actionbar.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_camera_content.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_camera_content.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\mediacontroller.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\mediacontroller.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\global_loading_dialog.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\global_loading_dialog.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\select_use_user_alerlog.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\select_use_user_alerlog.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_index_gallery.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_index_gallery.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_wifi_confirm.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_wifi_confirm.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_deleloper_setdiolog.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_deleloper_setdiolog.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_self_check_toast.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_self_check_toast.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\global_loading_dialog.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\global_loading_dialog.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\comman_datetime.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\comman_datetime.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_electric_toastset.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_electric_toastset.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\arc_menu.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\arc_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\dialog_contract.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\dialog_contract.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\objectivepop_window.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\objectivepop_window.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_feedback_user_reply.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\layout\\avoscloud_feedback_user_reply.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\item_setting_button.xml",
+        "source": "D:\\project\\yeespec\\20181231\\MicroscopeMaster\\microscopemaster\\src\\main\\res\\layout\\item_setting_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\res\\merged\\internal\\debug\\layout\\avoscloud_search_result_item.xml",
+        "source": "D:\\ltl\\project\\MicroscopeMaster\\microscopemaster\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\layout\\avoscloud_search_result_item.xml"
+    }
+]

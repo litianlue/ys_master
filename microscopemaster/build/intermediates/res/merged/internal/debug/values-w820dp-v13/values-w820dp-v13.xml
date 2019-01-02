@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="list_font_size">18sp</dimen>
+    <dimen name="list_height_min">32dp</dimen>
+    <string name="camera">Camera</string>
+    <string name="description">force lock screen</string>
+    <string name="labelValue">device_admin</string>
+    <string name="no_device">No USB camera found</string>
+    <string name="refresh">Refresh</string>
+    <string name="select">Select USB Web Camera</string>
+    <string name="text1_notify">正在努力工作中...</string>
+    <string name="text_notify">正在工作中...</string>
+    <string name="ticker_notify">智能显微镜</string>
+    <string name="title_notify">智能显微镜</string>
+</resources>

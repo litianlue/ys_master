@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:background="@drawable/toast_background">
+    <TextView
+        android:id="@+id/itemtitle"
+        android:layout_marginLeft="20dp"
+        android:gravity="center"
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="match_parent"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:text="第"/>
+    <TextView
+        android:id="@+id/itemsate"
+        android:layout_marginLeft="20dp"
+        android:gravity="center"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:visibility="gone"
+        android:layout_height="match_parent"
+        android:textSize="25sp"
+        android:textColor="#000"
+         />
+    <CheckBox
+        android:id="@+id/itemcheck"
+        android:layout_marginRight="1dp"
+        android:gravity="center"
+        android:layout_width="0dp"
+        android:focusable="false"
+
+        android:visibility="gone"
+        android:layout_weight="1"
+        android:checked="false"
+        android:layout_height="match_parent" />
+    <TextView
+        android:id="@+id/testcheck"
+        android:layout_marginLeft="60dp"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:visibility="visible"
+        android:focusable="false"
+        android:text="确定"
+        android:gravity="center"
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

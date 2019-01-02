@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="build_host" translatable="false">Administrator@CZ-20170809CODS</string>
+    <string name="build_time" translatable="false">20190102</string>
+
+</resources>

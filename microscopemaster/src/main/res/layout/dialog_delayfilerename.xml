@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="340dp"
+    android:background="@drawable/toast_background"
+    android:layout_height="200dp">
+    <ProgressBar
+        android:layout_marginTop="20dp"
+        android:layout_width="70dp"
+        android:layout_gravity="center"
+        android:layout_height="70dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:text="刷新中，请稍等。。。"
+        android:textColor="#282424"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
